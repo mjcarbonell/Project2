@@ -1,0 +1,31 @@
+Project 2: Grammar-based Benchmark Generation for Clone Detection 
+
+Code clone detection plays an important role in the analysis of the maintainability of a software project.
+The existence of duplicate code fragments (clone pairs) suggests that abstractions are not used effectively or that the code base is too difficult to oversee.
+A wide variety of clone detection algorithms and tools have been developed for detecting clone pairs in code bases [1]
+Benchmarks are used to determine the accuracy of detection algorithms [2], typically establishing precision and recall based on identifying false positives and negatives.
+Code clone benchmarks are typically limited in size as developing them manually requires a lot of effort. 
+The case of BigCloneBench, on the other hand, is very large, making it difficult to use. 
+
+The goal of this project is to explore the possibility of using grammar-based benchmark generation for clone detection, inspired by approaches for grammar-based test generation [3]. 
+The grammar of a programming language can be used to generate syntactically valid code fragments as initial variants from which to generate clone variants.
+Based on a precise definition of clone types [5], it is possible to define mutation functions for modifying initial variants to a variants which are clones by definition. 
+By varying how the initial fragments are generated and by modifying the mutation functions, a large variety of potential benchmarks can be produced.
+ 
+The main challenge of this project is to determine how the effectiveness of (the generated) benchmarks can be evaluated [4].
+This will involve running existing clone detection tools to establish their recall and precision and identify meaningful distinctions between the results of these tools.  
+A known difficult is to produce benchmarks that are effective in establishing precision, which requires generating non-clones which may be identified as clones by imprecise tools. 
+
+The project can be completed by 3-4 students and requires at least the following:
+- Academic reading and literature review related to at least: clone detection, empirical software engineering and benchmarks. 
+- Designing and implementing algorithms in Rascal for generating syntactically correct code fragments and mutations. 
+- Implementing a tool in Rascal for constructing benchmark variations by reconfiguring the code generation and mutation algorithms.
+- Design and conduct experiments for evaluating the efficacy of benchmarks using existing clone detector algorithms. 
+- Writing a research paper that presents the design of the experiments and the findings. 
+- Creating and giving a presentation that presents the design of the experiments and the findings. 
+
+[1] Q. U. Ain, W. H. Butt, M. W. Anwar, F. Azam and B. Maqbool, "A Systematic Review on Code Clone Detection".2019. https://10.1109/ACCESS.2019.2918202 
+[2] Jeffrey Svajlenko and Chanchal K. Roy. "BigCloneEval: A Clone Detection Tool Evaluation Framework with BigCloneBench". 2016. https://doi.org/10.1109/ICSME.2016.62 
+[3] Lämmel, R., Schulte, W. Controllable Combinatorial Coverage in Grammar-Based Testing. 2006. https://doi.org/10.1007/11754008_2
+[4] S. E. Sim, S. Easterbrook and R. C. Holt, "Using benchmarking to advance research: a challenge to software engineering," 2003, https://10.1109/ICSE.2003.1201189 
+[5] Rainer Koschke. Survey of Research on Software Clones. 2007. https://doi.org/10.4230/DagSemProc.06301.13
