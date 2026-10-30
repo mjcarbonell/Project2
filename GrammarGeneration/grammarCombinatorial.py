@@ -4,21 +4,20 @@ variables = {} #  variable name : variable value
 
 def giveExp(depth): 
     if depth <= 2: 
-        return giveLitExp
+        return giveLitExp()
     else: 
-        choice = random.randint(0,2)
+        choice = random.randint(0,1)
         if choice == 0: # roll again
             return giveBinExp(depth - 1) 
         if choice == 1: 
             return  giveUnaExp(depth - 1) 
-        if choice == 2: 
-            return giveLitExp(depth - 1)  
+        
         
 def giveBinExp(depth):
     return giveExp(depth) + "+" + giveExp(depth) 
 
-def giveUnaExp():
-    return  "-" +  giveExp()
+def giveUnaExp(depth):
+    return  "-" +  giveExp(depth)
 
 def giveLitExp(): 
     return "1" 
@@ -55,4 +54,4 @@ def giveProgram():
 
 print(giveProgram())
 
-print(giveExp())
+print(giveExp(5))
