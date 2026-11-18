@@ -27,7 +27,7 @@ Tree generate(){
 // Writes one Java file of generated methods, wrapped in a class, to CustomDataSet/default/.
 // In the REPL: main();  or  main(name="Gen2", methods=8);
 void main() {
-    str name = "Gen1";
+    str name = "Gen2";
     int methods = 5; 
     loc file = |cwd:///CustomDataSet/default/| + "<name>.java";
     str body = ""; 

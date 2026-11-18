@@ -60,8 +60,8 @@ tuple[str text, int s, int e] injectBeforeLastBrace(str b, str mutant) {
     return <before + "\n    " + mutant + "\n" + after, s, e>;
 }
 
-// One injection = one clone class (classId) with one reference pair
-void injectT1(loc src, loc out, str a, str name, str b, int classId) {
+// One injection = one clone class (functionalityID) with one reference pair
+void injectT1(loc src, loc out, str a, str name, str b, int functionalityID) {
     Tree cuA = parse(#start[CompilationUnit], src + a, allowAmbiguity=true); // Parse Tree https://www.rascal-mpl.org/docs/Library/ParseTree/#ParseTree-parse
     MethodDec m = findMethod(cuA, name); // Checks every node. returns the node with the given name 
     // println(prettyTree(m, \layout=true, literals=true));  // "in between the Symbols that define a syntax non-terminal the locally defined layout non-terminal will be interleaved." https://www.rascal-mpl.org/docs/Rascal/Declarations/SyntaxDefinition/
@@ -74,12 +74,12 @@ void injectT1(loc src, loc out, str a, str name, str b, int classId) {
     int e1 = m.src.end.line; // Start and end line https://www.rascal-mpl.org/docs/Rascal/Locations/
     tuple[str text, int s, int e] r = injectBeforeLastBrace(readFile(src + b), mutant); // Reading a file https://www.rascal-mpl.org/docs/Library/IO/#IO-readFile
     // Dataset files, laid out like ijadataset/bcb_reduced/<functionality>/default/
-    loc dst = out + "<classId>/default/"; 
+    loc dst = out + "<functionalityID>/default/"; 
     writeFile(dst + a, readFile(src + a));
     writeFile(dst + b, r.text);
 
-    int idA = 2 * classId - 1;
-    int idB = 2 * classId;
+    int idA = 2 * functionalityID - 1;
+    int idB = 2 * functionalityID;
     // rows for our bcb.h2.db, in BigCloneBench column order https://www.rascal-mpl.org/docs/Library/IO/#IO-writeFile
     // Only the columns BigCloneEval reads by default are filled; sizes, tokens and judges are 0
     // (they are only read with filters like -mil, -mit, -mij).
@@ -87,8 +87,8 @@ void injectT1(loc src, loc out, str a, str name, str b, int classId) {
     appendToFile(out + "functions.csv","<a>,default,<s1>,<e1>,<idA>,0,custom,0,FALSE\n");
     appendToFile(out + "functions.csv","<b>,default,<r.s>,<r.e>,<idB>,0,custom,0,FALSE\n");
     
-    appendToFile(out + "clones.csv","<idA>,<idB>,<classId>,original-mutant,1,1.0,1.0,0,0,0,0,0,0,0,0,FALSE\n"); // only record id of fragments, functionality (classID), Type, Syntactic Type, Sim line, Sim token, 
-    appendToFile(out + "functionalities.csv","<a>:<name>,T1 injection of <name> from <a> into <b>,<classId>,generated\n");
+    appendToFile(out + "clones.csv","<idA>,<idB>,<functionalityID>,original-mutant,1,1.0,1.0,0,0,0,0,0,0,0,0,FALSE\n"); // only record id of fragments, functionality (classID), Type, Syntactic Type, Sim line, Sim token, 
+    appendToFile(out + "functionalities.csv","<a>:<name>,T1 injection of <name> from <a> into <b>,<functionalityID>,generated\n");
     println("injected <name> from <a> (<s1>-<e1>) into <b> (<r.s>-<r.e>)");
 }
 // Pick a random .java file from the folder

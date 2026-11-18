@@ -155,9 +155,9 @@ public class Pdf2Dcm {
         }
     }
 
-    private   static /* t1 */ void exit(String /* t1 */ prompt) /* t1 */ {
-        /* t1 */ System.err.println(prompt);
+    private /* t1 */ static void /* t1 */ exit(String   prompt)   {
+        System.err.println(prompt);
           System.err.println(USAGE);
-        System.exit(1);
-      }
+          System.exit(1);
+    /* t1 */ }
 }
