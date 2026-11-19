@@ -1,0 +1,57 @@
+<clones>
+<systeminfo processor="nicad6" system="1" granularity="functions" threshold="0%" minlines="1" maxlines="2500"/>
+<cloneinfo npcs="110" npairs="10"/>
+<runinfo ncompares="5995" cputime="98593"/>
+<classinfo nclasses="10"/>
+
+<class classid="1" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen1.java" startline="5" endline="5" pcid="2"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen2.java" startline="14" endline="14" pcid="66"></source>
+</class>
+
+<class classid="2" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen10.java" startline="14" endline="14" pcid="11"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen9.java" startline="9" endline="9" pcid="109"></source>
+</class>
+
+<class classid="3" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen11.java" startline="11" endline="11" pcid="16"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen12.java" startline="14" endline="14" pcid="22"></source>
+</class>
+
+<class classid="4" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen13.java" startline="11" endline="11" pcid="27"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen14.java" startline="14" endline="14" pcid="33"></source>
+</class>
+
+<class classid="5" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen15.java" startline="11" endline="11" pcid="38"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen16.java" startline="14" endline="14" pcid="44"></source>
+</class>
+
+<class classid="6" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen17.java" startline="7" endline="7" pcid="47"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen18.java" startline="14" endline="14" pcid="55"></source>
+</class>
+
+<class classid="7" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen19.java" startline="3" endline="3" pcid="56"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen20.java" startline="14" endline="14" pcid="72"></source>
+</class>
+
+<class classid="8" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen3.java" startline="5" endline="5" pcid="74"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen4.java" startline="14" endline="14" pcid="83"></source>
+</class>
+
+<class classid="9" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen5.java" startline="5" endline="5" pcid="85"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen6.java" startline="14" endline="14" pcid="94"></source>
+</class>
+
+<class classid="10" nclones="2" nlines="3" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen7.java" startline="3" endline="3" pcid="95"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/1/default/Gen8.java" startline="14" endline="14" pcid="105"></source>
+</class>
+
+</clones>

@@ -1,13 +1,13 @@
 class Gen2 {
 
-   void ufz ( boolean chm , boolean ueb , double eqn ) { float rri ; }
+   void suo ( boolean sin , boolean cin , double rkn ) { ujt * xyv * ara * nkn * udj * fxu * uoo ; }
 
-   void pdz ( boolean lzb , boolean vhx , long hbc ) { fgy * kxj * nzy * uek * ror * oaj * ihf ; }
+   void axw ( long lvu , boolean ilr , float fcy ) { if ( wec * vuz * fyw * gpm * ufd * srd * lyg ) dhg ; }
 
-   void ktw ( short wbm , boolean hai , float klw ) { boolean zvb ; }
+   void fde ( boolean nqa , float rln , boolean yka ) { if ( vwk ) cfc * lxu * ugo * kuc * mni * tux ; }
 
-   void vfd ( double bhw , byte icb , double nbu ) { boolean khi ; }
+   void zar ( boolean eaa , boolean uox , byte lrg ) { byte krd ; }
 
-   void mav ( float yzh , float tmv , boolean rgr ) { boolean mgh ; }
+   void odb ( double gxe , boolean her , boolean rlw ) { float akh ; }
 
 }

@@ -4,7 +4,9 @@ import IO;
 import List;
 import String;
 import util::Math;
-import vis::Text; 
+import vis::Text;
+import util::ShellExec;
+import Evaluate;
 import lang::java::\syntax::Java15;
 
 
@@ -61,7 +63,7 @@ tuple[str text, int s, int e] injectBeforeLastBrace(str b, str mutant) {
 }
 
 // One injection = one clone class (functionalityID) with one reference pair
-void injectT1(loc src, loc out, str a, str name, str b, int functionalityID) {
+void injectT1(loc src, loc out, str a, str name, str b, int functionalityID, int aID, int bID) {
     Tree cuA = parse(#start[CompilationUnit], src + a, allowAmbiguity=true); // Parse Tree https://www.rascal-mpl.org/docs/Library/ParseTree/#ParseTree-parse
     MethodDec m = findMethod(cuA, name); // Checks every node. returns the node with the given name 
     // println(prettyTree(m, \layout=true, literals=true));  // "in between the Symbols that define a syntax non-terminal the locally defined layout non-terminal will be interleaved." https://www.rascal-mpl.org/docs/Rascal/Declarations/SyntaxDefinition/
@@ -78,8 +80,8 @@ void injectT1(loc src, loc out, str a, str name, str b, int functionalityID) {
     writeFile(dst + a, readFile(src + a));
     writeFile(dst + b, r.text);
 
-    int idA = 2 * functionalityID - 1;
-    int idB = 2 * functionalityID;
+    int idA = aID; 
+    int idB = bID; 
     // rows for our bcb.h2.db, in BigCloneBench column order https://www.rascal-mpl.org/docs/Library/IO/#IO-writeFile
     // Only the columns BigCloneEval reads by default are filled; sizes, tokens and judges are 0
     // (they are only read with filters like -mil, -mit, -mij).
@@ -88,7 +90,6 @@ void injectT1(loc src, loc out, str a, str name, str b, int functionalityID) {
     appendToFile(out + "functions.csv","<b>,default,<r.s>,<r.e>,<idB>,0,custom,0,FALSE\n");
     
     appendToFile(out + "clones.csv","<idA>,<idB>,<functionalityID>,original-mutant,1,1.0,1.0,0,0,0,0,0,0,0,0,FALSE\n"); // only record id of fragments, functionality (classID), Type, Syntactic Type, Sim line, Sim token, 
-    appendToFile(out + "functionalities.csv","<a>:<name>,T1 injection of <name> from <a> into <b>,<functionalityID>,generated\n");
     println("injected <name> from <a> (<s1>-<e1>) into <b> (<r.s>-<r.e>)");
 }
 // Pick a random .java file from the folder
@@ -108,16 +109,30 @@ str pickMethodAtRandom(loc file) {
 void main() {
     loc src = |cwd:///CustomDataSet/default/|; // https://www.rascal-mpl.org/docs/Rascal/Locations/
     loc out = |cwd:///CustomDataSet_T1/|;
+    int folderNum = 1;
+    // Clean previous run: injected files, NiCad results folder + logs, converted pairs
+    for (f <- listEntries(out), f == "<folderNum>" || startsWith(f, "<folderNum>_")) { // delete 1_func....xml , .log, etc.
+        remove(out + f, recursive=true);
+    }
+    if (exists(|cwd:///nicad_pairs.csv|)){
+        remove(|cwd:///nicad_pairs.csv|);
+    }
     // CSV headers (CSVREAD uses the first line as column names)
     writeFile(out + "functions.csv", "NAME,TYPE,STARTLINE,ENDLINE,ID,NORMALIZED_SIZE,PROJECT,TOKENS,INTERNAL\n");
     writeFile(out + "clones.csv", "FUNCTION_ID_ONE,FUNCTION_ID_TWO,FUNCTIONALITY_ID,TYPE,SYNTACTIC_TYPE,SIMILARITY_LINE,SIMILARITY_TOKEN,MIN_SIZE,MAX_SIZE,MIN_PRETTY_SIZE,MAX_PRETTY_SIZE,MIN_JUDGES,MIN_CONFIDENCE,MIN_TOKENS,MAX_TOKENS,INTERNAL\n");
-    writeFile(out + "functionalities.csv", "NAME,DESCRIPTION,ID,SEARCH_HEURISTIC\n");
+    if (exists(out + "functionalities.csv")) remove(out + "functionalities.csv"); // only BigCloneEval used it
 
-    // str fileA = pickFileAtRandom(src);
-    str fileA = "85.java"; 
-    // str methodA = pickMethodAtRandom(src + fileA);
-    str methodA = "exit"; 
-    // str fileB = pickFileAtRandom(src);
-    str fileB = "85.java"; 
-    injectT1(src, out, fileA, methodA, fileB, 1);
+    // Pairs Gen1->Gen2, Gen3->Gen4, ...: a random method from the odd file is mutated into the even file
+    int files = 20;
+    for (i <- [1..files/2 + 1]) {
+        str fileA = "Gen<2*i - 1>.java";
+        str fileB = "Gen<2*i>.java";
+        str methodA = pickMethodAtRandom(src + fileA);
+        injectT1(src, out, fileA, methodA, fileB, folderNum, 2*i - 1, 2*i);
+    }
+    // NiCad in WSL (Type-1 config with minsize=1)
+    println(exec("wsl", args=["bash", "-lc","cd ~/NiCad-6.2 && ./nicad6 functions java /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/<folderNum> t1small"]));
+    list[Pair] ps = readNicad(out + "<folderNum>_functions-clones/<folderNum>_functions-clones-0.00.xml");  // NiCad XML -> CSV -> recall
+    writePairs(ps, |cwd:///nicad_pairs.csv|); 
+    evaluate(out, ps);
 }

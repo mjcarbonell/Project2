@@ -26,17 +26,22 @@ Tree generate(){
 
 // Writes one Java file of generated methods, wrapped in a class, to CustomDataSet/default/.
 // In the REPL: main();  or  main(name="Gen2", methods=8);
-void main() {
-    str name = "Gen2";
-    int methods = 5; 
+void writeGenFile(str name, int methods) {
     loc file = |cwd:///CustomDataSet/default/| + "<name>.java";
     str body = ""; 
     for (_ <- [0..methods]){
         t = generate(); 
         body += "   <unparse(t)>\n\n"; 
     }
-    writeFile(file, "class <name> {\n\n<body>}\n");
-    println("wrote <file>");
+    writeFile(file, "class <name> {\n\n<body>}\n"); 
+    println("wrote <file>"); 
+}
+void main() {
+    int files = 21; 
+    int methods = 5; 
+    for (i <- [1..files]){
+        writeGenFile("Gen<i>", methods); 
+    }
 }
 
 Tree gen(Symbol currentSymbol, Grammar symbolGrammar, int depth){

@@ -1,13 +1,13 @@
 class Gen1 {
 
-   void ppd ( byte xik , double oky , float pdc ) { xhk * lia * ljw ; }
+   void zpr ( boolean yfo , float syi , boolean qkq ) { if ( kbd * qce * xbb ) if ( num ) zgd ; }
 
-   void gxd ( boolean aqo , char zuk , boolean rfw ) { if ( yla * kys * urw * ruv * tjr * umq * pcz * kug * duh * uaa * man ) if ( ynx * lrr * rdx ) if ( ene ) if ( jmw * ecp ) xay ; }
+   void cdg ( double lrm , float zxk , int ahz ) { gdy * lro * vuy * too * exs ; }
 
-   void tls ( short ybq , float cpj , float iie ) { boolean guc ; }
+   void amr ( float wdk , boolean sfw , double kth ) { if ( nkd * zbk ) if ( pdr ) if ( lhu * ptd * dqn ) vns * cvk ; }
 
-   void dth ( byte pzq , long exy , float otw ) { byte azq ; }
+   void ank ( float fqz , boolean kxl , char gym ) { mlv * lcs * hxr * txo ; }
 
-   void afl ( byte oux , boolean xvb , boolean qwh ) { rkj * vew * ekk * zxg * kyg * rnw ; }
+   void hab ( boolean vpy , boolean saa , double bhl ) { if ( lxa ) qmf ; }
 
 }
