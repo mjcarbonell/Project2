@@ -47,8 +47,10 @@ list[Pair] readTruth(loc dataset) {
         list[str] c = split(",", line);   // NAME,TYPE,STARTLINE,ENDLINE,ID,...
         frags[toInt(c[4])] = <c[1], c[0], toInt(c[2]), toInt(c[3])>;
     }
-    // grab each clone and put it in line. 
-    return [<frags[toInt(c[0])], frags[toInt(c[1])]>| line <- tail(readFileLines(dataset + "clones.csv")), list[str] c := split(",", line)];
+    // The 0th index of c is the first fragment, 1th index is the second fragment. 
+    // We then convert these indices to Ints and search the valid functions by their ID.  
+    return [<frags[toInt(c[0])], frags[toInt(c[1])]>| 
+    line <- tail(readFileLines(dataset + "clones.csv")), list[str] c := split(",", line)];
 }
 
 // Same file and line ranges intersect
@@ -65,10 +67,11 @@ str show(Pair p) = "<p.a.file>:<p.a.s>-<p.a.e> \<-\> <p.b.file>:<p.b.s>-<p.b.e>"
 // Prints the report and returns the same text, so main can also save it to results.txt.
 str evaluate(loc dataset, list[Pair] reported) {
     list[Pair] truth = readTruth(dataset);
-    list[Pair] missed = [t | t <- truth, !any(r <- reported, matches(t, r))]; // False positives (FP). Under the assumption "anything not injected counts as a non-clone."
+    list[Pair] missed = [t | t <- truth, !any(r <- reported, matches(t, r))]; // False negatives (FN). Under the assumption "anything not injected counts as a non-clone."
     // Not necessarily false positives: random generated methods can be real clones by accident
-    list[Pair] extra  = [r | r <- reported, !any(t <- truth, matches(t, r))]; // False negatives (FN). Injected clones that the CCD did not report.  
-    int hit = size(truth) - size(missed); // We subtract the amount of pairs that we missed from the amount that of pairs that exist to find (the true pairs). 
+    list[Pair] extra  = [r | r <- reported, !any(t <- truth, matches(t, r))]; // False positives (FP). Injected clones that the CCD did not report.  
+    int hit = size(truth) - size(missed); // True positives (TP) amount. 
+    // Recall. Of the real clones how many were found ? 
     str report = "ground truth pairs: <size(truth)>\n"
                + "reported pairs:     <size(reported)>\n"
                + "recall:             <hit>/<size(truth)> = <size(truth) == 0 ? 0 : hit * 100 / size(truth)>%\n";
