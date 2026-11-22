@@ -1,13 +1,9 @@
 class Gen4 {
 
-   void pmv ( boolean kcf , short pcx , char ljl ) { boolean ovf ; }
+   void eja ( float qkw , boolean zfj , float tnp ) { boolean xjc ; }
 
-   void wdu ( boolean vps , char aev , boolean gnd ) { long syh ; }
+   void dpi ( boolean vwo , char pxn , boolean dxf ) { afc ; }
 
-   void gql ( boolean vpq , boolean pqu , byte rvh ) { boolean kqv ; }
-
-   void gpj ( boolean djf , int gil , boolean mpe ) { if ( bjg ) med ; }
-
-   void ddc ( boolean psz , long hzh , float uun ) { boolean edg ; }
+   void sgr ( boolean crr , boolean qjc , double glc ) { if ( khd ) qqk ; }
 
 }

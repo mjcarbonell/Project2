@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><pmd-cpd pmdVersion="7.29.0" timestamp="2026-11-22T12:21:55.187076937+01:00" version="1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pmd-code.org/schema/cpd-report https://pmd.github.io/schema/cpd-report_1_0_0.xsd" xmlns="https://pmd-code.org/schema/cpd-report">
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen1.java" totalNumberOfTokens="51"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen10.java" totalNumberOfTokens="93"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen11.java" totalNumberOfTokens="65"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen12.java" totalNumberOfTokens="90"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen13.java" totalNumberOfTokens="104"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen14.java" totalNumberOfTokens="77"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen15.java" totalNumberOfTokens="85"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen16.java" totalNumberOfTokens="66"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen17.java" totalNumberOfTokens="63"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen18.java" totalNumberOfTokens="69"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen19.java" totalNumberOfTokens="50"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen2.java" totalNumberOfTokens="75"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen20.java" totalNumberOfTokens="123"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen3.java" totalNumberOfTokens="52"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen4.java" totalNumberOfTokens="70"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen5.java" totalNumberOfTokens="81"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen6.java" totalNumberOfTokens="95"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen7.java" totalNumberOfTokens="102"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen8.java" totalNumberOfTokens="107"/>
+    <file path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen9.java" totalNumberOfTokens="67"/>
+    <duplication lines="3" tokens="42">
+        <file begintoken="1369" column="137" endcolumn="136" endline="5" endtoken="1410" line="3" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen7.java"/>
+        <file begintoken="1493" column="71" endcolumn="289" endline="10" endtoken="1534" line="7" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen8.java"/>
+        <codefragment><![CDATA[   void biu ( char ywr , double cdv , boolean fwk ) { if ( pui ) if ( kks * xku * imc * kgs * mcu * lcv * nap * qsk ) nur * bjo * tmj ; }
+
+   void ubz ( byte prp , double vdm , double aaa ) { if ( bbc * wea * jte * gec * bdu * iyn * spe * lby ) if ( vgc ) if ( gpt ) urk ; }
+]]></codefragment>
+    </duplication>
+    <duplication lines="5" tokens="33">
+        <file begintoken="112" column="95" endcolumn="2" endline="11" endtoken="144" line="7" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen10.java"/>
+        <file begintoken="1571" column="67" endcolumn="2" endline="9" endtoken="1603" line="5" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen9.java"/>
+        <codefragment><![CDATA[   void kec ( boolean sku , int awf , float wsr ) { pns * syq * qwz * jbs * mak * uex * ixp ; }
+
+
+    void /* t1 */ qgt ( boolean voa , long   elz ,   byte avp /* t1 */ ) {   if (   kbc /* t1 */ )   if   ( /* t1 */ sto * gcc *   dnj /* t1 */ *   mbi   *   jgw   ) /* t1 */ jtu /* t1 */ ; }
+}
+]]></codefragment>
+    </duplication>
+    <duplication lines="1" tokens="29">
+        <file begintoken="149" column="4" endcolumn="101" endline="3" endtoken="177" line="3" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen11.java"/>
+        <file begintoken="272" column="5" endcolumn="198" endline="10" endtoken="300" line="10" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen12.java"/>
+        <codefragment><![CDATA[   void slv ( float clp , int rhs , boolean vev ) { if ( uaq * agv * ijs ) qwj * ljt * euk * usz ; }
+]]></codefragment>
+    </duplication>
+    <duplication lines="5" tokens="18">
+        <file begintoken="1058" column="69" endcolumn="2" endline="9" endtoken="1075" line="5" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen3.java"/>
+        <file begintoken="1129" column="75" endcolumn="2" endline="11" endtoken="1146" line="7" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen4.java"/>
+        <codefragment><![CDATA[   void fqu ( boolean vim , char emh , boolean cnt ) { double vpy ; }
+
+   void xxr ( char cya , float fff , boolean jkq ) { boolean zut ; }
+
+}
+]]></codefragment>
+    </duplication>
+    <duplication lines="5" tokens="18">
+        <file begintoken="1211" column="69" endcolumn="2" endline="9" endtoken="1228" line="5" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen5.java"/>
+        <file begintoken="1307" column="65" endcolumn="2" endline="11" endtoken="1324" line="7" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen6.java"/>
+        <codefragment><![CDATA[   void qpp ( float rod , float qoy , boolean sid ) { boolean skm ; }
+
+   void rpc ( boolean ssj , boolean axs , char iwl ) { byte oer ; }
+
+}
+]]></codefragment>
+    </duplication>
+    <duplication lines="3" tokens="16">
+        <file begintoken="18" column="66" endcolumn="64" endline="5" endtoken="33" line="3" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen1.java"/>
+        <file begintoken="882" column="65" endcolumn="125" endline="10" endtoken="897" line="7" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen2.java"/>
+        <codefragment><![CDATA[   void gon ( boolean ogw , long xxf , double hqz ) { long ned ; }
+
+   void oti ( boolean rsi , boolean qmp , float joi ) { nwz ; }
+]]></codefragment>
+    </duplication>
+    <duplication lines="1" tokens="16">
+        <file begintoken="306" column="4" endcolumn="70" endline="3" endtoken="321" line="3" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen13.java"/>
+        <file begintoken="468" column="5" endcolumn="107" endline="10" endtoken="483" line="10" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen14.java"/>
+        <codefragment><![CDATA[   void ynq ( double uvz , boolean xxc , long tjf ) { boolean mzr ; }
+]]></codefragment>
+    </duplication>
+    <duplication lines="1" tokens="16">
+        <file begintoken="642" column="4" endcolumn="70" endline="3" endtoken="657" line="3" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen17.java"/>
+        <file begintoken="755" column="5" endcolumn="121" endline="10" endtoken="770" line="10" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen18.java"/>
+        <codefragment><![CDATA[   void gtq ( boolean sfh , double xat , float fij ) { double zxy ; }
+]]></codefragment>
+    </duplication>
+    <duplication lines="1" tokens="15">
+        <file begintoken="489" column="4" endcolumn="60" endline="3" endtoken="503" line="3" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen15.java"/>
+        <file begintoken="622" column="5" endcolumn="114" endline="10" endtoken="636" line="10" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen16.java"/>
+        <codefragment><![CDATA[   void gsb ( float kut , char rzt , double saf ) { swz ; }
+]]></codefragment>
+    </duplication>
+    <duplication lines="1" tokens="15">
+        <file begintoken="776" column="4" endcolumn="63" endline="3" endtoken="790" line="3" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen19.java"/>
+        <file begintoken="1007" column="5" endcolumn="106" endline="10" endtoken="1021" line="10" path="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen20.java"/>
+        <codefragment><![CDATA[   void jfg ( char nya , boolean vms , boolean yof ) { rzs ; }
+]]></codefragment>
+    </duplication>
+</pmd-cpd>

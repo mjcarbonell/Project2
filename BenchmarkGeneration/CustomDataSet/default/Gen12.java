@@ -1,13 +1,9 @@
 class Gen12 {
 
-   void sqf ( char fnt , boolean ncu , boolean vqh ) { long sdc ; }
+   void wyu ( float avf , long jsp , boolean sfz ) { boolean qlf ; }
 
-   void yog ( boolean vxu , boolean nlh , boolean twp ) { float uiv ; }
+   void khv ( double acy , float imf , boolean yfz ) { if ( xku * ovv * blf * zkd ) feu ; }
 
-   void wvr ( byte hat , boolean uiq , boolean pyc ) { boolean jqq ; }
-
-   void ogd ( boolean jno , double nyt , boolean ogz ) { boolean muj ; }
-
-   void bmm ( boolean ctv , char dtq , boolean lyk ) { if ( vrb * oqc * eom * gqr * ici ) jho ; }
+   void lhy ( float fyc , byte bzt , float qfz ) { boolean izx ; }
 
 }

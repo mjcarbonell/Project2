@@ -1,13 +1,9 @@
 class Gen9 {
 
-   void toj ( boolean muw , double yev , boolean btc ) { boolean col ; }
+   void uvf ( double bgt , float lzx , boolean xwk ) { float vad ; }
 
-   void niu ( boolean ybr , double xue , short dmu ) { uub ; }
+   void jme ( byte nly , float xka , boolean hva ) { double gvm ; }
 
-   void ccc ( boolean vig , float qdl , boolean vph ) { boolean vir ; }
-
-   void inl ( double dxt , boolean kff , short yud ) { aks ; }
-
-   void zov ( short vql , boolean mee , float wqu ) { double pwg ; }
+   void qgt ( boolean voa , long elz , byte avp ) { if ( kbc ) if ( sto * gcc * dnj * mbi * jgw ) jtu ; }
 
 }

@@ -1,13 +1,9 @@
 class Gen6 {
 
-   void vvj ( boolean okn , boolean zls , boolean see ) { float asv ; }
+   void yoz ( double dzz , long zbe , boolean lci ) { if ( zal * dtv * eqk * cmo * yua * nux * xsx * zzi ) rwm * dcv * ene * dcj * wcz * lyc ; }
 
-   void hmu ( int yji , boolean lgi , char qao ) { float lhk ; }
+   void gcp ( double akn , float psd , boolean zrx ) { short jpy ; }
 
-   void elu ( boolean cnv , byte omx , double pqv ) { boolean dcj ; }
-
-   void fkt ( boolean cnv , float xit , float qbl ) { boolean pwj ; }
-
-   void rwq ( short xvc , boolean tpy , boolean zmq ) { boolean bvx ; }
+   void nxy ( float zbd , float hdh , int kmk ) { boolean udg ; }
 
 }

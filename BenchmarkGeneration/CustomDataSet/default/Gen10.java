@@ -1,13 +1,9 @@
 class Gen10 {
 
-   void utt ( boolean ljo , float xus , double rlf ) { boolean zmj ; }
+   void dev ( float omf , boolean eut , boolean ecl ) { boolean sjm ; }
 
-   void drp ( boolean qzg , boolean vag , boolean tcb ) { if ( anp ) if ( tbq * qcj * abh * kfg ) rnh * sov ; }
+   void nry ( double kri , boolean edm , boolean ipz ) { ryr ; }
 
-   void igp ( boolean wnz , boolean sme , float vjp ) { boolean uzx ; }
-
-   void gdr ( boolean pff , double tdm , double mra ) { err ; }
-
-   void ori ( boolean pva , boolean ydz , boolean abn ) { boolean gjj ; }
+   void kec ( boolean sku , int awf , float wsr ) { pns * syq * qwz * jbs * mak * uex * ixp ; }
 
 }

@@ -1,13 +1,9 @@
 class Gen20 {
 
-   void nzq ( boolean ngi , byte dyi , int ahl ) { if ( rdq * vqi * erb * lxy * yhj * tml ) jhm ; }
+   void ffb ( float poh , boolean hoc , boolean pmc ) { if ( guy ) if ( gkp * ksv * qym * ykf * pkg ) if ( iex * rvk * ivq ) bde * sld ; }
 
-   void tkr ( boolean hiy , boolean tmb , boolean ufa ) { char wpx ; }
+   void xvn ( float jxr , boolean gsy , short pns ) { if ( faa * mhy * jvt * arm * fjh * fuv * aut * kye ) if ( zje * bof ) if ( fqz * oua * nqh ) scf ; }
 
-   void loi ( char wae , boolean zjn , char lyf ) { float pjf ; }
-
-   void kyf ( double zeg , float cyk , int xqr ) { byte ibi ; }
-
-   void ctj ( double yey , double mxi , boolean djl ) { ksk * uja * rmo * fvq * fcq * foe ; }
+   void ags ( double uua , float nrr , float hpx ) { long rsn ; }
 
 }

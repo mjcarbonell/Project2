@@ -1,13 +1,9 @@
 class Gen15 {
 
-   void bdi ( boolean teo , float hlj , boolean shx ) { boolean iie ; }
+   void gsb ( float kut , char rzt , double saf ) { swz ; }
 
-   void ava ( short hol , double cnv , short ycf ) { double pql ; }
+   void lnb ( boolean ymr , boolean tya , float kmf ) { if ( foi * xys * dyo * awk * zae * jeo * dnf ) itu * xyz * ogx * kkd * gph * kbc * eou * hge ; }
 
-   void jsw ( boolean dry , float tbg , short ewx ) { double lxd ; }
-
-   void xll ( boolean mjd , boolean vtb , boolean wpd ) { short cih ; }
-
-   void jrk ( boolean cia , byte hzw , double iho ) { boolean ppv ; }
+   void qdc ( float guq , int goe , float tlr ) { enn * obr * yqj * itl ; }
 
 }

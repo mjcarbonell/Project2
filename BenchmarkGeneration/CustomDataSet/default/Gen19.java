@@ -1,13 +1,9 @@
 class Gen19 {
 
-   void wbg ( short gub , char gwu , boolean goe ) { float mvg ; }
+   void jfg ( char nya , boolean vms , boolean yof ) { rzs ; }
 
-   void azi ( boolean otc , double utp , boolean ehh ) { char mfw ; }
+   void jet ( short jum , boolean ubz , long sll ) { boolean vfr ; }
 
-   void rqx ( boolean vfl , boolean jzd , short rgw ) { float dkl ; }
-
-   void qpo ( boolean rsf , boolean elc , char zaq ) { boolean jhx ; }
-
-   void dsc ( float est , boolean moe , char nwn ) { ozl * ppj * rqm * iwt * zsg * xkt ; }
+   void tho ( double ezs , boolean tic , boolean hnn ) { qsi ; }
 
 }

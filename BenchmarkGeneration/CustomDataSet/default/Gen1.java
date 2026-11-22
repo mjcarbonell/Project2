@@ -1,13 +1,9 @@
 class Gen1 {
 
-   void zpr ( boolean yfo , float syi , boolean qkq ) { if ( kbd * qce * xbb ) if ( num ) zgd ; }
+   void gon ( boolean ogw , long xxf , double hqz ) { long ned ; }
 
-   void cdg ( double lrm , float zxk , int ahz ) { gdy * lro * vuy * too * exs ; }
+   void oti ( boolean rsi , boolean qmp , float joi ) { nwz ; }
 
-   void amr ( float wdk , boolean sfw , double kth ) { if ( nkd * zbk ) if ( pdr ) if ( lhu * ptd * dqn ) vns * cvk ; }
-
-   void ank ( float fqz , boolean kxl , char gym ) { mlv * lcs * hxr * txo ; }
-
-   void hab ( boolean vpy , boolean saa , double bhl ) { if ( lxa ) qmf ; }
+   void jix ( boolean tye , double clt , double eku ) { boolean xvc ; }
 
 }

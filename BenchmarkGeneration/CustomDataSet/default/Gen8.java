@@ -1,13 +1,9 @@
 class Gen8 {
 
-   void xtd ( boolean fcj , boolean euc , double aap ) { kkt ; }
+   void ekx ( boolean byk , byte xhl , float xxn ) { float lka ; }
 
-   void die ( short nji , boolean npw , boolean add ) { short fpw ; }
+   void rsm ( float kad , float scp , boolean mzo ) { if ( udd * zth * lko * xif ) if ( zok ) vxm ; }
 
-   void hwl ( double vey , short obi , byte gbg ) { short kcf ; }
-
-   void ywg ( double phl , double vvg , boolean vkb ) { long coy ; }
-
-   void lel ( boolean fsu , boolean tib , boolean pvz ) { kvp ; }
+   void aub ( boolean ztr , boolean wuu , boolean psj ) { hga * oiq ; }
 
 }

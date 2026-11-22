@@ -38,7 +38,7 @@ void writeGenFile(str name, int methods) {
 }
 void main() {
     int files = 21; 
-    int methods = 5; 
+    int methods = 3; 
     for (i <- [1..files]){
         writeGenFile("Gen<i>", methods); 
     }

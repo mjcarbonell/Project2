@@ -1,13 +1,9 @@
 class Gen13 {
 
-   void dwk ( boolean qqi , boolean dmi , boolean aop ) { ezu * aha ; }
+   void ynq ( double uvz , boolean xxc , long tjf ) { boolean mzr ; }
 
-   void zyq ( char hjo , byte jms , int knl ) { if ( kmv * nkm ) if ( kiu ) kqg * glq * ifh ; }
+   void fyu ( short vcn , float uba , char qgo ) { if ( bbr ) if ( hrm * pxh * bjc * gkt ) if ( ykh * pqy * wuj ) if ( bpb ) if ( kgm ) bmq ; }
 
-   void igz ( boolean rio , boolean jgb , double tep ) { if ( xtx ) qea ; }
-
-   void rkt ( boolean may , boolean sxw , boolean tzc ) { xos ; }
-
-   void wpa ( boolean mco , float koz , boolean cdh ) { long mcl ; }
+   void jkm ( char jsj , boolean tne , boolean yzk ) { if ( nby ) if ( hes * ikk * yfa ) if ( gut ) if ( fnc ) if ( ujw ) dou ; }
 
 }

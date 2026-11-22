@@ -1,13 +1,9 @@
 class Gen11 {
 
-   void zcf ( boolean sue , char wwk , double mzc ) { paq ; }
+   void slv ( float clp , int rhs , boolean vev ) { if ( uaq * agv * ijs ) qwj * ljt * euk * usz ; }
 
-   void hsu ( boolean xtj , int wfk , boolean lxx ) { boolean iaw ; }
+   void wez ( boolean eqx , boolean gxa , boolean zyv ) { char yho ; }
 
-   void jop ( boolean jgi , boolean jba , double pnn ) { boolean qwn ; }
-
-   void jsn ( boolean wef , boolean qdc , boolean hjm ) { boolean vhh ; }
-
-   void bxo ( boolean pkn , char net , int sro ) { cdc * aef * dwj * bxs ; }
+   void poo ( boolean lao , boolean nso , long lcy ) { short gpd ; }
 
 }
