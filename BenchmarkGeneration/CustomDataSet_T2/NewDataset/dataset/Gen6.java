@@ -1,11 +1,11 @@
 class Gen6 {
 
-   void wav ( float uqe , int dhz , boolean swa ) { if ( ofb ) if ( gyr ) if ( fkj * zms ) if ( ejr * ars ) if ( esx ) sjs ; }
+   void kin ( boolean nlq , float vxu , byte auy ) { if ( lnj ) if ( eac ) if ( beo * eak * kyj ) if ( xpi * wws ) if ( uvu ) dcz ; short dlw , lfz , vmw , ksv ; if ( scx * erf * fvm * gle * sqo * zem ) bqc ; oip ; }
 
-   void way ( boolean qse , char phf , char qzt ) { ogz * vad * vis * lxl * dwy * znj ; }
+   void svp ( boolean ibw , char nvr , boolean rlo ) { rmw ; boolean vyz , rgg , rga , unj ; oof * hwg * ypx * ghx * flp * iep * nfy * whv * pym * tem * xne ; xbr ; }
 
-   void qyw ( boolean yrq , boolean fpb , char axb ) { boolean mva ; }
+   void iix ( double mnk , boolean hni , short tvq ) { int inq , ixh , two , jkr ; if ( tle ) end * gnr * efu ; if ( rih ) if ( ywu * vmt ) ftt ; wxj * mpj ; }
 
 
-    void   wcn ( boolean ryk   ,   double ghn   , /* t1 */ byte   tpy   ) /* t1 */ { /* t1 */ if   ( mds   * /* t1 */ fda /* t1 */ * zuq   ) nfd * /* t1 */ kba * /* t1 */ mez   * jhz /* t1 */ * hkg *   ldl ; }
+    void /* t1 */ seu /* t1 */ ( /* t1 */ boolean /* t1 */ amw   , float /* t1 */ mok   , boolean dep   ) /* t1 */ { if (   xrh   * /* t1 */ goj   )   wvo /* t1 */ * /* t1 */ rbd /* t1 */ * ias /* t1 */ ;   float   njk , avi /* t1 */ ,   ujr ,   bja ;   byte rpp   ,   aeb , /* t1 */ cyx ,   xfq /* t1 */ ;   kvl   ; }
 }

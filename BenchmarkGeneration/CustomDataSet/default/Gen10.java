@@ -1,9 +1,9 @@
 class Gen10 {
 
-   void zcy ( long hzn , float cbr , double tjl ) { float nsn , whe , spj , fzf ; float vzv , nma , ren , mll ; if ( rnp ) lia * nel * sdb * pts * ils * ulp ; char jhs , azr , cpv , zdi ; }
+   void ejn ( long gcs , float ozt , float lqi ) { exd * atj * etw * wku * enw * qyj * zyx * xuw ; if ( egz * zai * neo * rlj * ust ) if ( oxr * yuz * uwy * ezp ) if ( tyj ) if ( brj * yoj ) if ( fkf ) gqs ; if ( czm ) wzl * gih ; int aqe , ihe , jwz , rxi ; }
 
-   void xza ( boolean jjr , float qij , int iph ) { boolean mey , njd , dzy , tvp ; float kmx , vsi , ncn , gcq ; char mio , sxz , xnx , rpk ; kys ; }
+   void myo ( double mlh , boolean ynl , boolean fjy ) { boolean gws , lsk , rtr , icw ; double itz , wwk , nzu , gbc ; tkt * oph * cow * svu * yzw * llx * hek * mau * qxa * ckm ; ejr * owr * ppc * icz * vdz * diw ; }
 
-   void acw ( char iqu , short bpu , short rjl ) { if ( hlj ) if ( tum * xsw * bbo * zhl ) if ( pre ) if ( ome * hfn ) if ( eoj ) viz ; if ( szg * hsk * cui * aai * gzu * kcm * plm ) if ( yqx * dwo * jsi * akg ) xnh ; vxt * seg * qvp * qvn * eyr * nlt * pnw * sbf * rdf ; float yve , ezu , mby , aqo ; }
+   void bjx ( boolean wqc , long she , double dtd ) { byte wvt , cbb , cph , pdh ; double hjt , wbq , nuz , unr ; if ( vym ) znx ; short zsg , dwg , twv , uka ; }
 
 }

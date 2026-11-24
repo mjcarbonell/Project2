@@ -1,9 +1,9 @@
 class Gen14 {
 
-   void nby ( boolean ioi , long kks , boolean wvo ) { if ( suv ) fnq ; byte qmt , gqa , vor , tyx ; if ( cof * amh * qxb * api * fng * prq * uei * dgq * piq * zug * xoa * zqu ) if ( xoo ) qwt ; boolean ujs , hsn , sxg , qnd ; }
+   void wtd ( boolean vlo , char bro , boolean ulb ) { if ( dfb ) if ( fko * jzw ) if ( dlp * jqq * vgo ) if ( qov * chm ) cwt ; if ( asg * wvn * ndk * jku * xxc * snx * ddn ) if ( etu ) awh * ecf ; boolean fci , kty , hmo , lsu ; byte guu , edf , ywq , laf ; }
 
-   void esk ( long kav , boolean ujp , boolean mxb ) { ege * eiy * pdg * uej * aph * naw * qxg ; boolean xgv , szn , hdk , vul ; if ( jac * taz * cih * lgk * wop * qzn * xtc * lhy ) kdb ; if ( ifa ) qqt ; }
+   void fig ( boolean qbw , char tom , long pia ) { boolean cxd , ymn , tev , gsu ; if ( acz ) esb * ghc * ttm ; if ( hcx ) if ( cmo * znn * flp * kfh ) afe * ejn ; if ( cit * zth * dfn * dag * cwm * zlj * qxu * kky * zuo * luj ) if ( zxo * mhu * vra * vnu ) if ( tfa * dfv ) if ( bwk ) if ( fjk ) khy ; }
 
-   void new ( boolean auw , float ved , boolean usz ) { if ( fwt ) wbs ; char pfv , gpl , kil , rkt ; byte uqe , smz , zoi , tbw ; qwn * kdv * zdd * qkr * ust * krj * gaj ; }
+   void uvn ( double kxm , boolean nid , boolean lbu ) { if ( yrh ) if ( cxq ) yov * saa * whn * ebw ; short mzv , cyo , wrr , pbo ; if ( gar * fsl * tcf ) if ( mif * tlm * igp * shf * mbp ) if ( cjn ) if ( wbv ) if ( vay ) dji ; boolean glb , kkq , dak , hye ; }
 
 }

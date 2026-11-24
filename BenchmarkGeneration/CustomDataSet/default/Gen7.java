@@ -1,9 +1,9 @@
 class Gen7 {
 
-   void epc ( boolean hfw , boolean wmx , short oxx ) { nhq * opj * lqv * caj ; if ( qnq ) vnq ; ehh * pnf * gqg * gej * ntz * cvb * jvm * srm ; if ( xno ) if ( rcc ) jjb ; }
+   void csm ( boolean qvi , double caw , boolean sqp ) { int bso , hpw , max , bda ; ndc * evn * hew * pab * aqt * nqe * ypo ; bll * mtl * rdi * roi * sri * uol * usr ; byte alt , cnn , qic , emm ; }
 
-   void yxf ( boolean gik , boolean xdb , boolean ilp ) { byte ici , tph , vwr , jjl ; if ( wmi ) qvd ; if ( jsf * bnz ) vpz ; boolean tbg , mjx , xui , qxq ; }
+   void rfu ( short yvd , float nqw , boolean uwn ) { float prm , euo , kng , hil ; short dmk , oat , mav , zve ; fnd * cyr * fye * trr * tcj * nvy * gkz * fzg * bcw ; float dfb , jsh , mhm , hpw ; }
 
-   void lsc ( boolean coz , float ivm , boolean hth ) { double dxl , mwm , cak , eea ; boolean gpt , omn , vzw , vpr ; kzo * iyz * zsh ; qol ; }
+   void zsw ( float eeu , boolean nok , boolean jgf ) { if ( lmg * tlk * ewt * mhw * amt * ehh * hxc * agh ) qac * mop ; if ( nuk * oce * srf * gga * fuu * oni * pfe * szm * jkg * lcp ) if ( rgd * wcr ) if ( soi * xpq * oby * fsa ) if ( agn * dts ) fmq ; fux * vkg * vev * unj * gul * dog ; double ida , ehw , aji , btu ; }
 
 }

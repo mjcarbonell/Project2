@@ -35,10 +35,23 @@ list[Pair] readCpd(loc xml) {
                 fs += [<parts[size(parts)-2], parts[size(parts)-1], toInt(s), toInt(e)>];
             }
         }
-        out += [<fs[i], fs[j]> | i <- [0..size(fs)], j <- [i+1..size(fs)]];
+        // Method-level filter: keep the duplication only if, in every file, it covers at least 70% of
+        // the smallest method on its lines. Short shared runs inside methods, e.g. "( boolean ID , boolean ID ...",
+        // are dropped instead of counted as false positives.
+        int dupTokens = /tokens="<n:[0-9]+>"/ := dup ? toInt(n) : 0;
+        loc ds = xml.parent + "dataset";
+        if (all(f <- fs, list[int] ms := methodTokens(ds + f.file, f.s, f.e), ms != [], dupTokens * 10 >= 7 * min(ms))) {
+            out += [<fs[i], fs[j]> | i <- [0..size(fs)], j <- [i+1..size(fs)]];
+        }
     }
     return out;
 }
+
+// Tokens per method on lines s..e of a dataset file. Generated code is space-separated, so after
+// dropping the Type-1 comments a token is any whitespace-separated word. Lines with "(" hold a method.
+list[int] methodTokens(loc file, int s, int e) =
+    [size([w | w <- split(" ", replaceAll(l, "/* t1 */", "")), w != ""])
+    | l <- readFileLines(file)[s-1..e], contains(l, "(")];
 
 // functions.csv + clones.csv -> ground-truth pairs
 list[Pair] readTruth(loc dataset) {

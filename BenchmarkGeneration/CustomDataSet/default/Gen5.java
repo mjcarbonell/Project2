@@ -1,9 +1,9 @@
 class Gen5 {
 
-   void uos ( byte msx , byte kjq , boolean hdt ) { yix * auh * wqi * tsm * tvg * crc * gtx * rsq ; double zhd , grb , emz , svi ; byte pka , era , uyq , rst ; if ( tgn * mtg * tmt * kda * qge * kku * wzx ) qff ; }
+   void mxh ( boolean dzo , float mav , float xjw ) { boolean fkf , cnu , nvn , tbs ; gvc ; int crk , yzc , oiu , rzw ; vrd ; }
 
-   void okt ( boolean arq , short jgq , boolean kbz ) { float vvp , bnl , lxg , qng ; if ( emc ) prj * lyb * fpp * vhn * hgs * uhn ; float adq , usn , bwy , vsn ; art ; }
+   void bkq ( boolean dtc , byte gro , boolean pic ) { if ( zrg ) if ( ubv ) ryi * qcm ; boolean efm , olt , tqf , vpr ; if ( jml * oek ) if ( xgd ) zjz * xih * fnu ; nli ; }
 
-   void wgn ( boolean cdy , boolean bms , boolean oov ) { boolean xgd , zlx , rtm , izl ; boolean ave , qrp , tis , jix ; byte hpq , ksr , upj , ccy ; boolean mzp , yaa , yre , dzc ; }
+   void vvg ( boolean lra , float bfb , boolean awy ) { if ( dnl * uuh ) ggn * icx * ajt ; float fef , zpu , fsq , ekn ; byte doe , zur , pit , uoc ; utn ; }
 
 }

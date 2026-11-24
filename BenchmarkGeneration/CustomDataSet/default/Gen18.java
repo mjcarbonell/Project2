@@ -1,9 +1,9 @@
 class Gen18 {
 
-   void ryz ( boolean mbp , long eud , boolean tou ) { boolean rsx , fmk , wzp , wkt ; if ( gyk ) if ( nam * seg * cuj * lzk ) lma ; if ( iio * omx * rvk * eug * qhy * csg * ycl * ada ) caz ; if ( bvx ) if ( xod ) ndl * agw * glm * xlp ; }
+   void qna ( boolean myo , byte dcz , boolean wwc ) { byte ijr , ieh , tnl , gir ; yob ; double kwi , sgv , pku , ubh ; if ( eox * snv ) nbi ; }
 
-   void iis ( boolean qde , double oyc , int ccd ) { ybg ; double krs , hdp , gxo , yge ; kct ; int dnd , mou , jcd , feg ; }
+   void zba ( boolean jpw , short xyw , double qgt ) { txk ; if ( hjs * cfm * sfy * jqc * uyy * hty * dlx * jmk * vll * xrr * ddt ) if ( fml ) if ( mpd * fit * ptv ) if ( gkq * prk ) if ( qtb ) vta ; if ( qio * uyx * tsr * nor * rrq * vzv ) vyk ; int asc , xqp , qrl , zyb ; }
 
-   void usg ( boolean pox , short ikc , float jev ) { tqk * rsn * ige * gjj * jsx * wai ; double oph , vdl , yol , qsn ; boolean bhz , ufw , hic , fni ; float qfc , wgw , rxo , zhd ; }
+   void ooj ( boolean jjk , float rqn , boolean nlt ) { float two , kwq , dip , tra ; wut ; char qvy , lls , xrv , emf ; if ( rxv ) tdj ; }
 
 }

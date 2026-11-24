@@ -1,9 +1,9 @@
 class Gen3 {
 
-   void kcv ( boolean ggn , boolean ygg , boolean rje ) { boolean jvt , wzu , got , clg ; qqf ; if ( esh ) pnc ; if ( psc ) htl * xxd * snb * tfk ; }
+   void haq ( boolean akk , short aqm , long njo ) { cuq * ebg ; pqi * fpj * vhm * izh * abh ; int ual , rjo , ikm , fbi ; boolean cyg , sjm , mxj , ryr ; }
 
-   void xzq ( float csb , double mcd , boolean qjb ) { boolean blk , ana , clm , lco ; double ebq , sld , lqo , pmv ; boolean liq , zwy , vfz , xpt ; if ( zxv ) pek * ifm ; }
+   void xlz ( float yfq , boolean sid , boolean gxs ) { udo ; buq * bzs ; zrl ; boolean zwl , ggl , mpy , wwr ; }
 
-   void qhj ( boolean lvk , char vyd , boolean tcf ) { if ( ico * xkj * mvr ) yyh ; int yfj , xcz , sai , zyb ; fyh ; if ( smb ) if ( ods * rar * ufy * rlc * hsg * eqh * frk ) nmx * mzu * mhn ; }
+   void faa ( float emf , float akt , boolean gkg ) { if ( zcq ) if ( kmj ) if ( iuj * vlz * mdi ) if ( pzl * ppg ) if ( yta ) dnn ; if ( rqv ) hpu * vko ; boolean iez , qke , yod , ivg ; if ( nec ) dgw * krt ; }
 
 }

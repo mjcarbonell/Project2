@@ -1,69 +1,56 @@
 <clones>
 <systeminfo processor="nicad6" system="dataset" granularity="functions-consistent" threshold="0%" minlines="1" maxlines="2500"/>
-<cloneinfo npcs="70" npairs="18"/>
-<runinfo ncompares="2415" cputime="39229"/>
-<classinfo nclasses="12"/>
+<cloneinfo npcs="70" npairs="10"/>
+<runinfo ncompares="2415" cputime="89992"/>
+<classinfo nclasses="10"/>
 
-<class classid="1" nclones="3" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen1.java" startline="7" endline="7" pcid="3"></source>
+<class classid="1" nclones="2" nlines="6" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen1.java" startline="3" endline="3" pcid="1"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen2.java" startline="10" endline="10" pcid="42"></source>
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen4.java" startline="5" endline="5" pcid="51"></source>
 </class>
 
-<class classid="2" nclones="3" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen10.java" startline="3" endline="3" pcid="4"></source>
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen20.java" startline="5" endline="5" pcid="44"></source>
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen15.java" startline="5" endline="5" pcid="23"></source>
-</class>
-
-<class classid="3" nclones="2" nlines="3" similarity="100">
+<class classid="2" nclones="2" nlines="6" similarity="100">
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen10.java" startline="10" endline="10" pcid="7"></source>
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen9.java" startline="5" endline="5" pcid="69"></source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen9.java" startline="7" endline="7" pcid="70"></source>
 </class>
 
-<class classid="4" nclones="3" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen11.java" startline="3" endline="3" pcid="8"></source>
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen4.java" startline="3" endline="3" pcid="50"></source>
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen2.java" startline="7" endline="7" pcid="41"></source>
-</class>
-
-<class classid="5" nclones="2" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen11.java" startline="5" endline="5" pcid="9"></source>
+<class classid="3" nclones="2" nlines="6" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen11.java" startline="7" endline="7" pcid="10"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen12.java" startline="10" endline="10" pcid="14"></source>
 </class>
 
-<class classid="6" nclones="2" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen13.java" startline="5" endline="5" pcid="16"></source>
+<class classid="4" nclones="2" nlines="6" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen13.java" startline="3" endline="3" pcid="15"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen14.java" startline="10" endline="10" pcid="21"></source>
 </class>
 
-<class classid="7" nclones="2" nlines="3" similarity="100">
+<class classid="5" nclones="2" nlines="6" similarity="100">
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen15.java" startline="3" endline="3" pcid="22"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen16.java" startline="10" endline="10" pcid="28"></source>
 </class>
 
-<class classid="8" nclones="2" nlines="3" similarity="100">
+<class classid="6" nclones="2" nlines="6" similarity="100">
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen17.java" startline="3" endline="3" pcid="29"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen18.java" startline="10" endline="10" pcid="35"></source>
 </class>
 
-<class classid="9" nclones="2" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen19.java" startline="5" endline="5" pcid="37"></source>
+<class classid="7" nclones="2" nlines="6" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen19.java" startline="3" endline="3" pcid="36"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen20.java" startline="10" endline="10" pcid="46"></source>
 </class>
 
-<class classid="10" nclones="2" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen3.java" startline="3" endline="3" pcid="47"></source>
+<class classid="8" nclones="2" nlines="6" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen3.java" startline="7" endline="7" pcid="49"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen4.java" startline="10" endline="10" pcid="53"></source>
 </class>
 
-<class classid="11" nclones="2" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen5.java" startline="5" endline="5" pcid="55"></source>
+<class classid="9" nclones="2" nlines="6" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen5.java" startline="7" endline="7" pcid="56"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen6.java" startline="10" endline="10" pcid="60"></source>
 </class>
 
-<class classid="12" nclones="2" nlines="3" similarity="100">
-<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen7.java" startline="7" endline="7" pcid="63"></source>
+<class classid="10" nclones="2" nlines="6" similarity="100">
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen7.java" startline="3" endline="3" pcid="61"></source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen8.java" startline="10" endline="10" pcid="67"></source>
 </class>
 

@@ -1,9 +1,9 @@
 class Gen12 {
 
-   void rsj ( float suh , double kng , boolean cez ) { mrz * swc * fvp * stz * edm ; boolean akx , yko , kdv , you ; if ( hlm ) rds ; boolean uts , lfq , ntp , vmt ; }
+   void gie ( boolean bvk , byte tay , float uss ) { zle ; if ( fkr * txz * mxt * lar * pew * lmr ) if ( eey ) if ( pzn ) if ( hht ) yxp ; wfh ; boolean udk , mzc , emt , yhh ; }
 
-   void wtz ( boolean pkl , double yij , char wev ) { boolean ewp , tde , mxm , gzg ; if ( vyt * kly ) aho ; boolean mzb , vdm , dtt , tzu ; if ( fob ) mtl * yua * uov * pxf * bbe * vsz ; }
+   void ctu ( boolean juh , double oom , int qgl ) { byte ely , ywk , bbj , noj ; byte cza , nim , tas , ohc ; nsn ; boolean twu , gla , jyo , sui ; }
 
-   void gwe ( byte lmd , int fib , long pbr ) { boolean ixf , svo , gqp , nsi ; kwo ; ywk * bgq * iis * rxo ; if ( imc ) afi * mix * hvi * pon ; }
+   void reb ( boolean jpv , long igd , boolean rdv ) { if ( bfc ) sbf ; if ( oru * xcd * klh * its * qyr * glw * oaj ) mmj * fac * egy * asy ; double oyh , jyp , fto , nih ; tse ; }
 
 }

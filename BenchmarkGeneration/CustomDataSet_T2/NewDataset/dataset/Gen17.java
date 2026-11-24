@@ -1,9 +1,9 @@
 class Gen17 {
 
-   void vch ( float kjn , float nnx , boolean flu ) { hcr ; }
+   void sdt ( double mts , double bwq , boolean xgd ) { short lky , cun , jrl , jsb ; int cht , prx , uwd , oji ; boolean lll , ntl , grd , jjq ; if ( kjx * pbe ) if ( lib * kcj * npx * lki ) if ( zqw * pvi * dgm * xwh ) if ( iwd ) if ( txl ) vlu ; }
 
-   void fbk ( boolean jki , boolean kqi , boolean vxv ) { if ( mco ) if ( gzl * eqq * vkq ) crf ; }
+   void hqb ( boolean efc , short oxu , char csi ) { if ( etg ) if ( tet ) qxv ; if ( vpi * ena * bzz * zho * ehr ) doq ; boolean rho , avi , wgh , lxs ; boolean nww , kfm , iyb , vmh ; }
 
-   void jhy ( char cii , float nna , boolean xas ) { boolean sjt ; }
+   void bbr ( short abn , int gdh , boolean ygb ) { ozd * bwa * yyy ; long rno , ltl , yiz , zmm ; byte xns , nqn , fpv , jor ; char jrs , ggv , sme , cmf ; }
 
 }

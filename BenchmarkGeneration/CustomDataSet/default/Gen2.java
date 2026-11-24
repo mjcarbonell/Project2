@@ -1,9 +1,9 @@
 class Gen2 {
 
-   void siw ( boolean ozn , boolean nyz , long dpq ) { kxs * xkd * ynx ; byte onv , llp , nxt , xrb ; short nbe , oom , gkk , ixa ; eby ; }
+   void rvx ( float gsn , int txe , boolean kuv ) { short drs , gze , kgj , nhz ; if ( tpl * lch ) if ( zsl ) if ( yfv ) cnb * whg ; if ( bhi * noj * iyw * vuy ) xon * vku * fln ; boolean rzm , czo , hil , ixg ; }
 
-   void yei ( boolean ukx , double nsl , float alf ) { byte uph , rgd , man , grj ; float xuc , oih , fif , yyu ; ssy ; yye * fzf * cof ; }
+   void ylx ( char mbf , boolean suq , boolean cny ) { double yyb , fcg , ptc , hmn ; if ( omj * rbg * oqe * ddf * pts * hkz * own ) if ( avk ) wnr * rmu * lfb ; doe ; boolean ecp , hgp , acn , klg ; }
 
-   void emh ( boolean mdc , char mxw , float dft ) { hid ; zfn ; double lve , tit , uax , yzh ; if ( fvk * lyu * gqt * vij * ozf * cpu ) zio * nnt * ueo ; }
+   void nyg ( boolean ntc , double mmj , boolean uec ) { boolean hlg , cxr , bbk , esb ; double gws , ycy , ahx , qxu ; wmn * tpn * axx * mzm * rlv * vee * ldz ; if ( gjj ) qbn * dgh * wjr * bjv * ovg ; }
 
 }

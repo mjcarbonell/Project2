@@ -1,9 +1,9 @@
 class Gen1 {
 
-   void tpb ( boolean etd , byte lwe , float kel ) { boolean tsa , dcc , qqh , scv ; if ( ksn * nlz * bco * nrg * rpb * fke * mqb ) unf * mal ; char ope , spl , pdm , yfe ; float xfj , fok , jfn , aah ; }
+   void rnq ( long ewi , long vmg , char vgl ) { if ( dvb ) zpx * jyg * gvn ; short bbp , ehp , qgq , tpo ; ojy * gui * syu * rxn * rtl * gle * ily * ife * hka ; edw * xbg * qdg * cid * vzt * erd * lhk ; }
 
-   void pdb ( short oeg , boolean jbm , boolean whd ) { boolean koq , lrg , kzl , nmv ; double ayn , vow , xpv , mtr ; boolean vex , xzo , kto , uua ; boolean ttp , haz , tyb , nxf ; }
+   void gaa ( char uku , boolean lro , float luy ) { fdg * aui * vtp * nnh * hma * jli ; if ( tmz ) llb * fti * bgx ; boolean cca , gnh , huz , whr ; ltd * asj * eti * rhr * duw * uku ; }
 
-   void agc ( boolean ngb , boolean jux , double sib ) { if ( pvb * ydv * kxd * eqt ) if ( kso ) if ( fxb * drq * rmw ) ron ; xna ; char hcp , ybl , iqa , vya ; short tpg , zgx , daf , daj ; }
+   void cin ( double sed , double atx , boolean fit ) { if ( uin ) if ( ztc ) if ( ofa ) tbe ; if ( ira * ktf ) if ( pje * iwy * dvh * aoa * psp * wjv * lso ) nxg ; sfe ; pck * ddo ; }
 
 }

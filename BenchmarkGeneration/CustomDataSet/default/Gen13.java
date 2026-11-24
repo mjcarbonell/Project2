@@ -1,9 +1,9 @@
 class Gen13 {
 
-   void vcq ( boolean piu , boolean hdb , boolean akz ) { kxp * rka * nui * dpu ; int fyz , tmr , uwk , xea ; boolean ghb , gay , oke , ydv ; long aer , xet , eig , fru ; }
+   void ztd ( boolean gfe , short zea , long ged ) { if ( jdd * nho * fvk * wot * ixh * eqy * hbs ) rha ; double jrn , glx , jzf , dgs ; if ( jvi ) if ( ksg * gdk * akg ) dbb ; float yfo , wis , vkh , ykh ; }
 
-   void pxj ( boolean iwa , boolean oac , byte hlq ) { zew ; if ( gpo * qda * stt * oin * mml * qqw * wkj * jqc ) if ( iap * xgi * uei * qxg * tll * txa ) wtj ; double bgo , jnn , avo , nln ; int tpe , dzk , yfe , zxt ; }
+   void ngk ( double skl , boolean twt , boolean isl ) { if ( qkq * hwl ) if ( zyw * nrg * tbh * eav ) if ( ddh ) if ( pcf ) if ( lqf ) lem ; oqj * wfh ; bye ; if ( xtw * kry * tug * izg ) if ( jkm ) if ( wxg * xgn * bmn * mot ) gal * ndf ; }
 
-   void obp ( boolean njy , double kaj , boolean mwb ) { if ( wav * odd * alu * nma * mqh ) if ( rsy * djb * pnl ) if ( ofc ) qvc * rre ; fvf ; byte gny , nzq , imc , aqc ; char dhb , oul , nzq , ege ; }
+   void jiw ( char aly , boolean haw , short yhi ) { int ggb , ezg , tat , lsj ; gau ; if ( bgc ) zky * elw * jgb * rzv ; if ( asb * vlj * mws * mkx * ryf ) if ( ypu ) qcd * coh * vrk * fwt ; }
 
 }

@@ -1,9 +1,9 @@
 class Gen3 {
 
-   void tix ( boolean vaz , long ewx , long ybi ) { boolean xdd ; }
+   void haq ( boolean akk , short aqm , long njo ) { cuq * ebg ; pqi * fpj * vhm * izh * abh ; int ual , rjo , ikm , fbi ; boolean cyg , sjm , mxj , ryr ; }
 
-   void lcr ( char afb , boolean mnr , byte yxh ) { char luf ; }
+   void xlz ( float yfq , boolean sid , boolean gxs ) { udo ; buq * bzs ; zrl ; boolean zwl , ggl , mpy , wwr ; }
 
-   void hta ( short aby , byte hkh , byte ijb ) { short xuu ; }
+   void faa ( float emf , float akt , boolean gkg ) { if ( zcq ) if ( kmj ) if ( iuj * vlz * mdi ) if ( pzl * ppg ) if ( yta ) dnn ; if ( rqv ) hpu * vko ; boolean iez , qke , yod , ivg ; if ( nec ) dgw * krt ; }
 
 }

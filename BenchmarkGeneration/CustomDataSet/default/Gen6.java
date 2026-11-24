@@ -1,9 +1,9 @@
 class Gen6 {
 
-   void pxp ( int omh , boolean llf , boolean qnk ) { ocn * fxz * ttp * ike * mmy ; jqn ; float fmn , cpr , cxa , apa ; if ( wua ) if ( iuw ) iym * xve * ovk ; }
+   void kin ( boolean nlq , float vxu , byte auy ) { if ( lnj ) if ( eac ) if ( beo * eak * kyj ) if ( xpi * wws ) if ( uvu ) dcz ; short dlw , lfz , vmw , ksv ; if ( scx * erf * fvm * gle * sqo * zem ) bqc ; oip ; }
 
-   void piy ( int xew , boolean ipx , boolean rbz ) { if ( lwt * nbk * ogb * fma * ees * rvo ) if ( lnu ) ief ; if ( nmb * iwi ) bkv * lya ; boolean bdg , czq , kqc , elo ; int uov , ojg , wnu , jyy ; }
+   void svp ( boolean ibw , char nvr , boolean rlo ) { rmw ; boolean vyz , rgg , rga , unj ; oof * hwg * ypx * ghx * flp * iep * nfy * whv * pym * tem * xne ; xbr ; }
 
-   void xdl ( long niz , double ihi , boolean lev ) { boolean rft , key , xwq , nxq ; if ( ewp * saa * lzz * jul * ixs ) tgu * oxa * gql * lph * noh * qip ; char yld , rda , qno , cdq ; wuq ; }
+   void iix ( double mnk , boolean hni , short tvq ) { int inq , ixh , two , jkr ; if ( tle ) end * gnr * efu ; if ( rih ) if ( ywu * vmt ) ftt ; wxj * mpj ; }
 
 }

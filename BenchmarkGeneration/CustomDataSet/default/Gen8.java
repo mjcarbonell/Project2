@@ -1,9 +1,9 @@
 class Gen8 {
 
-   void kjg ( boolean sdv , boolean hps , boolean hju ) { if ( irw * wjg * qkj * exq * kmm * snx * iij * ulp ) if ( mya ) if ( opw ) if ( noq * nlg ) ngr ; if ( tul ) if ( tyg * lxr * jbs * lbl ) zoy ; double rws , fgo , kkv , egy ; char abt , sce , wqp , gte ; }
+   void mfd ( float utf , float dfh , short gwk ) { float eyo , meq , hmz , wbl ; int awe , gnz , vqb , exc ; if ( osd ) nrf ; boolean nfy , bpg , qvh , klw ; }
 
-   void hqi ( byte flv , char mtb , float xzx ) { boolean trz , alf , sik , nuz ; fce * pry * svf * kza * vli ; boolean phf , gng , mex , hus ; jij ; }
+   void iyx ( boolean rii , byte mdb , double pfq ) { float ugh , fex , tty , rrx ; if ( nvy ) iya ; boolean ajo , zgi , xoj , avc ; dcl ; }
 
-   void nap ( byte ooy , double rko , boolean icz ) { if ( pgs ) if ( xyz ) kqr ; double zgd , fjg , mpa , cxb ; float ixn , vda , yxr , byv ; boolean eyp , jqr , gxa , qzp ; }
+   void xlg ( boolean tdy , char evs , byte utv ) { boolean lhv , zom , wag , dpy ; if ( bpo * kpx * cpk * xkm ) tlu ; if ( hsw ) if ( qci ) if ( smk ) lyv * ocb ; wbz ; }
 
 }

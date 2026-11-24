@@ -1,9 +1,9 @@
 class Gen19 {
 
-   void pbi ( int pbk , boolean jou , double xgl ) { ext * rci * ius ; }
+   void jgd ( double xdf , boolean tnl , boolean lna ) { float dkw , cxg , pjx , xca ; if ( jky ) tnu * zjg * lqu * pxm * ztw * hii * ltf ; float dqy , wdf , tna , lcq ; boolean sbx , vjq , dwz , lxy ; }
 
-   void uad ( boolean yqw , boolean fls , char efd ) { if ( oub ) if ( zxg * oai * lbe * uoy * cbg ) if ( xaf * bey ) if ( sei ) jde ; }
+   void wtl ( double nrr , boolean nfe , int crn ) { boolean kqx , ozp , iyi , oki ; double bju , fxa , tno , bzr ; if ( fpm * sfq * naw ) iku * zpl * aia * axy * vqw * yit ; if ( flk * mnr * llk * nwv * esp * xhn * vtr * ihe ) ize ; }
 
-   void cza ( float onj , boolean emc , long xel ) { char gdc ; }
+   void fjn ( double tah , double cfp , long dwy ) { boolean vwl , pjc , zzl , klm ; boolean zav , est , ose , hxb ; float ggb , xeo , xsk , tdt ; if ( apf * gco * jey * oje * zna * pbk * nbs ) if ( zbz ) if ( nrg ) if ( pqc ) if ( fat ) azc ; }
 
 }

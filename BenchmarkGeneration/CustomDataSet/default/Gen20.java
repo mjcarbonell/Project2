@@ -1,9 +1,9 @@
 class Gen20 {
 
-   void ajd ( boolean hcl , long eks , double opw ) { boolean bhx , bws , wlr , viy ; if ( jxu * hap * ygw * xow * dbb * byo ) twf * nci * rlu * dpf * xwb * gqh * uur ; if ( gmo * npd ) cwm * wpz ; if ( ugp * mkk * jzc ) dke ; }
+   void uuu ( boolean juj , double zvs , char vrg ) { float uap , yad , mow , rzh ; if ( tuy ) if ( svs * raz ) if ( gzq * itn ) xdi ; float kgh , dox , tig , sxi ; boolean twe , wqr , viy , dnw ; }
 
-   void efy ( float dun , boolean dpa , long pev ) { double dhy , syc , bon , fjg ; if ( hzp * pgl * roj * gei * oou * vah * oyq * pzd * hvh * ygx * tkc * xpx ) if ( hsp * xbe * kaw * ndm ) if ( hyd * mzb * vtz ) if ( shm * qji ) utq ; uve * btb * ior ; cpp * hyd * rrr * sve * jet * aad * fsu ; }
+   void qek ( long hia , boolean uhh , boolean dir ) { boolean szf , pav , eot , rdt ; if ( twm ) if ( sqr * ljh * bzt * uoy * lic * wiv * grm ) if ( wmq * ust * xpz ) qhh ; byte afm , mxx , iih , fth ; if ( hpy ) huy ; }
 
-   void rra ( char hxa , char xvs , boolean lwk ) { dyc * zgy ; long mqn , bjh , xzx , ufv ; long ugw , osu , wnv , zwg ; float ywf , qrf , qpi , pvz ; }
+   void drr ( boolean sov , double oay , boolean ubt ) { boolean rbn , kvh , bao , din ; gpg * jxs * qtr * qjl * onz * bry * fnf * lfl ; if ( myb * cij ) if ( syq * ccv ) wiv * iun ; boolean rbp , hah , tdc , qpy ; }
 
 }

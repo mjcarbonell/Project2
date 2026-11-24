@@ -1,9 +1,9 @@
 class Gen11 {
 
-   void xjk ( boolean njb , boolean ntn , double onh ) { boolean sim , zjy , qlc , sux ; xhz * ewq * puk * mrn * azw * egu ; if ( giq * wqy * qoc * xcd * sba * pzm ) crv * bdz * vzn * vfq * vbu * mak * xet ; mdn * szs ; }
+   void vtn ( long atb , boolean nsq , char zev ) { if ( umg ) uiz ; long fng , sdv , ubc , kxk ; if ( dsf ) xdv ; beq ; }
 
-   void jil ( double kza , boolean lmg , float txl ) { ikj * vfr * yfk * pvs * ltc * flx * bmr * ukv * suc ; float zwx , tjf , hvy , wmo ; waz ; ujt * kqj * xgd * wyz * wwx * uba * bom * wri * yhu * ews ; }
+   void kgu ( boolean eko , float hkj , boolean zic ) { boolean niq , rek , jag , rta ; uhz * udu ; gvi ; yjd ; }
 
-   void ocq ( byte mdn , double hue , boolean eks ) { boolean oxb , wmn , bsf , rhi ; boolean evj , eul , hzd , hnc ; aff * dtg * epy ; boolean jtt , yzr , cne , yia ; }
+   void tvw ( boolean zau , double zjh , boolean xep ) { boolean jev , avd , zqx , gcv ; int hhj , xxa , bhi , vnk ; boolean oco , shx , mmb , jhy ; boolean pvc , evw , bfg , gbo ; }
 
 }

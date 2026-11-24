@@ -1,9 +1,9 @@
 class Gen19 {
 
-   void zyq ( double xwf , double lha , boolean ddz ) { qnw * bhm * tjx * ppv * bhl * sow * ibr * kys ; ywy ; long qvo , hlu , gii , rcd ; boolean ifm , eks , bet , vrf ; }
+   void jgd ( double xdf , boolean tnl , boolean lna ) { float dkw , cxg , pjx , xca ; if ( jky ) tnu * zjg * lqu * pxm * ztw * hii * ltf ; float dqy , wdf , tna , lcq ; boolean sbx , vjq , dwz , lxy ; }
 
-   void hpb ( boolean fvj , boolean dzm , long wgl ) { short szj , dzp , xnq , rke ; gvh * xuf * hjw * ctr * wkd * hyf ; double zmy , vqm , lli , jfn ; boolean kgs , tok , wqv , zrq ; }
+   void wtl ( double nrr , boolean nfe , int crn ) { boolean kqx , ozp , iyi , oki ; double bju , fxa , tno , bzr ; if ( fpm * sfq * naw ) iku * zpl * aia * axy * vqw * yit ; if ( flk * mnr * llk * nwv * esp * xhn * vtr * ihe ) ize ; }
 
-   void kyp ( int ycu , boolean iqe , int tst ) { boolean wxd , zoa , kym , rvh ; boolean tfx , tvo , lah , crh ; byte gag , grb , ygc , ohf ; if ( qft * bux * loh * vrt * fkj * abw ) if ( yif * uql * ssi * xcl * eiq ) ojw * mkc * ron ; }
+   void fjn ( double tah , double cfp , long dwy ) { boolean vwl , pjc , zzl , klm ; boolean zav , est , ose , hxb ; float ggb , xeo , xsk , tdt ; if ( apf * gco * jey * oje * zna * pbk * nbs ) if ( zbz ) if ( nrg ) if ( pqc ) if ( fat ) azc ; }
 
 }

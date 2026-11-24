@@ -1,11 +1,11 @@
 class Gen4 {
 
-   void uqp ( boolean ngp , boolean jhs , double aod ) { boolean did ; }
+   void unj ( boolean ypu , float fyt , boolean xnl ) { nvd * bnh ; if ( bcx * foc ) ucs ; boolean sgc , rzd , cpn , cne ; byte sdo , oev , run , vjo ; }
 
-   void eqv ( boolean frk , short rqw , boolean ocu ) { boolean sxb ; }
+   void oxx ( short swz , byte frj , boolean hjd ) { double gzf , iaf , kae , jxj ; jgz ; boolean yuv , fud , gbt , hna ; yuf * eyr * fbo * iyn * mdt ; }
 
-   void pat ( boolean rwn , boolean zpv , float mai ) { if ( vpt * mwz * krs * hwd * obt * rpn ) if ( yqd * ljp * wmy * fxs ) ias ; }
+   void dig ( boolean ijg , double sdy , char jvi ) { boolean cdh , jwr , wrv , yys ; boolean zkv , hgd , bzm , jjz ; double ynp , ndo , nke , pzt ; if ( gvw * yqa * dds * yly * jsn * ycj * zlt * aht ) if ( jtr ) mxv ; }
 
 
-    void mvr /* t1 */ ( boolean   lat /* t1 */ , long /* t1 */ iuf /* t1 */ , long   eim   )   { /* t1 */ boolean sdx /* t1 */ ;   }
+    void eaj /* t1 */ (   float /* t1 */ wlr , /* t1 */ float jjx   , boolean ilk   )   {   if (   yci   )   if ( pkw /* t1 */ ) /* t1 */ if ( /* t1 */ oza   * dkg * tdv   ) /* t1 */ if /* t1 */ ( caq /* t1 */ *   guu ) if   (   gku ) /* t1 */ jqu ;   if (   ech /* t1 */ ) gbz * yzk /* t1 */ ; /* t1 */ boolean /* t1 */ woy , gxz , /* t1 */ rue /* t1 */ , /* t1 */ wdx /* t1 */ ; if /* t1 */ (   evl   ) /* t1 */ jmt * /* t1 */ pbw   ; /* t1 */ }
 }
