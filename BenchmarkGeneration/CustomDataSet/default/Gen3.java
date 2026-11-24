@@ -1,9 +1,9 @@
 class Gen3 {
 
-   void vyw ( boolean thf , boolean eqz , float zwx ) { boolean vdh ; }
+   void kcv ( boolean ggn , boolean ygg , boolean rje ) { boolean jvt , wzu , got , clg ; qqf ; if ( esh ) pnc ; if ( psc ) htl * xxd * snb * tfk ; }
 
-   void fqu ( boolean vim , char emh , boolean cnt ) { double vpy ; }
+   void xzq ( float csb , double mcd , boolean qjb ) { boolean blk , ana , clm , lco ; double ebq , sld , lqo , pmv ; boolean liq , zwy , vfz , xpt ; if ( zxv ) pek * ifm ; }
 
-   void xxr ( char cya , float fff , boolean jkq ) { boolean zut ; }
+   void qhj ( boolean lvk , char vyd , boolean tcf ) { if ( ico * xkj * mvr ) yyh ; int yfj , xcz , sai , zyb ; fyh ; if ( smb ) if ( ods * rar * ufy * rlc * hsg * eqh * frk ) nmx * mzu * mhn ; }
 
 }

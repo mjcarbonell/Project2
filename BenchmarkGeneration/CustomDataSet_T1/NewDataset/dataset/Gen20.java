@@ -1,11 +1,11 @@
 class Gen20 {
 
-   void ffb ( float poh , boolean hoc , boolean pmc ) { if ( guy ) if ( gkp * ksv * qym * ykf * pkg ) if ( iex * rvk * ivq ) bde * sld ; }
+   void dsy ( float twq , boolean efo , boolean zoy ) { int let ; }
 
-   void xvn ( float jxr , boolean gsy , short pns ) { if ( faa * mhy * jvt * arm * fjh * fuv * aut * kye ) if ( zje * bof ) if ( fqz * oua * nqh ) scf ; }
+   void nok ( boolean jrt , boolean jik , boolean tbg ) { boolean kis ; }
 
-   void ags ( double uua , float nrr , float hpx ) { long rsn ; }
+   void vxh ( boolean xet , byte teb , boolean ldq ) { if ( xkd ) if ( bwr ) xmj ; }
 
 
-    void   jfg ( /* t1 */ char nya /* t1 */ , boolean vms /* t1 */ ,   boolean yof )   { /* t1 */ rzs ; }
+    void   cza ( float   onj /* t1 */ , boolean emc   ,   long   xel   ) { /* t1 */ char   gdc /* t1 */ ; }
 }

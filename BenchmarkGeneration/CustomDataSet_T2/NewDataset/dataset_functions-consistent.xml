@@ -1,0 +1,350 @@
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen1.java" startline="3" endline="3">
+void x1 (float x2, boolean x3, int x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen1.java" startline="5" endline="5">
+void x1 (boolean x2, char x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen1.java" startline="7" endline="7">
+void x1 (boolean x2, short x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen10.java" startline="3" endline="3">
+void x1 (boolean x2, boolean x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen10.java" startline="5" endline="5">
+void x1 (double x2, boolean x3, boolean x4) {
+    if (x5 * x6) if (x7 * x8 * x9 * x10) x11 * x12 * x13;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen10.java" startline="7" endline="7">
+void x1 (float x2, double x3, boolean x4) {
+    double x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen10.java" startline="10" endline="10">
+void x1 (long x2, boolean x3, boolean x4) {
+    float x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen11.java" startline="3" endline="3">
+void x1 (boolean x2, boolean x3, double x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen11.java" startline="5" endline="5">
+void x1 (char x2, boolean x3, double x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen11.java" startline="7" endline="7">
+void x1 (byte x2, double x3, float x4) {
+    x5 * x6 * x7 * x8;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen12.java" startline="3" endline="3">
+void x1 (boolean x2, char x3, boolean x4) {
+    x5 * x6;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen12.java" startline="5" endline="5">
+void x1 (float x2, boolean x3, double x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen12.java" startline="7" endline="7">
+void x1 (boolean x2, float x3, char x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen12.java" startline="10" endline="10">
+void x1 (char x2, boolean x3, double x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen13.java" startline="3" endline="3">
+void x1 (byte x2, int x3, boolean x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen13.java" startline="5" endline="5">
+void x1 (char x2, float x3, char x4) {
+    if (x5 * x6) x7 * x8 * x9 * x10;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen13.java" startline="7" endline="7">
+void x1 (boolean x2, boolean x3, short x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen14.java" startline="3" endline="3">
+void x1 (byte x2, double x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen14.java" startline="5" endline="5">
+void x1 (short x2, double x3, boolean x4) {
+    int x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen14.java" startline="7" endline="7">
+void x1 (short x2, short x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen14.java" startline="10" endline="10">
+void x1 (char x2, float x3, char x4) {
+    if (x5 * x6) x7 * x8 * x9 * x10;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen15.java" startline="3" endline="3">
+void x1 (float x2, int x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen15.java" startline="5" endline="5">
+void x1 (boolean x2, boolean x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen15.java" startline="7" endline="7">
+void x1 (boolean x2, float x3, boolean x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen16.java" startline="3" endline="3">
+void x1 (long x2, boolean x3, char x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen16.java" startline="5" endline="5">
+void x1 (double x2, boolean x3, float x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen16.java" startline="7" endline="7">
+void x1 (double x2, short x3, boolean x4) {
+    float x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen16.java" startline="10" endline="10">
+void x1 (float x2, int x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen17.java" startline="3" endline="3">
+void x1 (float x2, float x3, boolean x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen17.java" startline="5" endline="5">
+void x1 (boolean x2, boolean x3, boolean x4) {
+    if (x5) if (x6 * x7 * x8) x9;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen17.java" startline="7" endline="7">
+void x1 (char x2, float x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen18.java" startline="3" endline="3">
+void x1 (int x2, boolean x3, float x4) {
+    x5 * x6 * x7 * x8;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen18.java" startline="5" endline="5">
+void x1 (boolean x2, boolean x3, char x4) {
+    if (x5) x6 * x7;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen18.java" startline="7" endline="7">
+void x1 (boolean x2, boolean x3, short x4) {
+    x5 * x6 * x7 * x8;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen18.java" startline="10" endline="10">
+void x1 (float x2, float x3, boolean x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen19.java" startline="3" endline="3">
+void x1 (int x2, boolean x3, double x4) {
+    x5 * x6 * x7;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen19.java" startline="5" endline="5">
+void x1 (boolean x2, boolean x3, char x4) {
+    if (x5) if (x6 * x7 * x8 * x9 * x10) if (x11 * x12) if (x13) x14;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen19.java" startline="7" endline="7">
+void x1 (float x2, boolean x3, long x4) {
+    char x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen2.java" startline="3" endline="3">
+void x1 (double x2, boolean x3, short x4) {
+    if (x5) if (x6) x7 * x8 * x9 * x10;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen2.java" startline="5" endline="5">
+void x1 (boolean x2, boolean x3, char x4) {
+    if (x5) x6;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen2.java" startline="7" endline="7">
+void x1 (boolean x2, boolean x3, double x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen2.java" startline="10" endline="10">
+void x1 (boolean x2, short x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen20.java" startline="3" endline="3">
+void x1 (float x2, boolean x3, boolean x4) {
+    int x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen20.java" startline="5" endline="5">
+void x1 (boolean x2, boolean x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen20.java" startline="7" endline="7">
+void x1 (boolean x2, byte x3, boolean x4) {
+    if (x5) if (x6) x7;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen20.java" startline="10" endline="10">
+void x1 (boolean x2, boolean x3, char x4) {
+    if (x5) if (x6 * x7 * x8 * x9 * x10) if (x11 * x12) if (x13) x14;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen3.java" startline="3" endline="3">
+void x1 (boolean x2, long x3, long x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen3.java" startline="5" endline="5">
+void x1 (char x2, boolean x3, byte x4) {
+    char x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen3.java" startline="7" endline="7">
+void x1 (short x2, byte x3, byte x4) {
+    short x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen4.java" startline="3" endline="3">
+void x1 (boolean x2, boolean x3, double x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen4.java" startline="5" endline="5">
+void x1 (boolean x2, short x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen4.java" startline="7" endline="7">
+void x1 (boolean x2, boolean x3, float x4) {
+    if (x5 * x6 * x7 * x8 * x9 * x10) if (x11 * x12 * x13 * x14) x15;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen4.java" startline="10" endline="10">
+void x1 (boolean x2, long x3, long x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen5.java" startline="3" endline="3">
+void x1 (boolean x2, short x3, long x4) {
+    if (x5) x6 * x7;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen5.java" startline="5" endline="5">
+void x1 (boolean x2, double x3, byte x4) {
+    if (x5 * x6 * x7) x8 * x9 * x10 * x11 * x12 * x13;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen5.java" startline="7" endline="7">
+void x1 (double x2, boolean x3, boolean x4) {
+    if (x5) x6 * x7 * x8 * x9;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen6.java" startline="3" endline="3">
+void x1 (float x2, int x3, boolean x4) {
+    if (x5) if (x6) if (x7 * x8) if (x9 * x10) if (x11) x12;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen6.java" startline="5" endline="5">
+void x1 (boolean x2, char x3, char x4) {
+    x5 * x6 * x7 * x8 * x9 * x10;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen6.java" startline="7" endline="7">
+void x1 (boolean x2, boolean x3, char x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen6.java" startline="10" endline="10">
+void x1 (boolean x2, double x3, byte x4) {
+    if (x5 * x6 * x7) x8 * x9 * x10 * x11 * x12 * x13;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen7.java" startline="3" endline="3">
+void x1 (double x2, boolean x3, long x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen7.java" startline="5" endline="5">
+void x1 (boolean x2, double x3, float x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen7.java" startline="7" endline="7">
+void x1 (boolean x2, double x3, float x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen8.java" startline="3" endline="3">
+void x1 (double x2, int x3, boolean x4) {
+    byte x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen8.java" startline="5" endline="5">
+void x1 (boolean x2, byte x3, boolean x4) {
+    boolean x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen8.java" startline="7" endline="7">
+void x1 (float x2, byte x3, boolean x4) {
+    long x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen8.java" startline="10" endline="10">
+void x1 (boolean x2, double x3, float x4) {
+    x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen9.java" startline="3" endline="3">
+void x1 (boolean x2, float x3, boolean x4) {
+    float x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen9.java" startline="5" endline="5">
+void x1 (long x2, boolean x3, boolean x4) {
+    float x5;
+}
+</source>
+<source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen9.java" startline="7" endline="7">
+void x1 (boolean x2, float x3, long x4) {
+    x5 * x6 * x7 * x8 * x9 * x10;
+}
+</source>

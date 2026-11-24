@@ -1,9 +1,9 @@
 class Gen2 {
 
-   void ivq ( double hit , boolean vkj , boolean yjq ) { double dhb ; }
+   void siw ( boolean ozn , boolean nyz , long dpq ) { kxs * xkd * ynx ; byte onv , llp , nxt , xrb ; short nbe , oom , gkk , ixa ; eby ; }
 
-   void iof ( byte mvi , long bsu , short ymv ) { jma * bbu * zpb * leo * hxw * wqj ; }
+   void yei ( boolean ukx , double nsl , float alf ) { byte uph , rgd , man , grj ; float xuc , oih , fif , yyu ; ssy ; yye * fzf * cof ; }
 
-   void ftp ( boolean pfp , boolean rrg , boolean wpd ) { uit ; }
+   void emh ( boolean mdc , char mxw , float dft ) { hid ; zfn ; double lve , tit , uax , yzh ; if ( fvk * lyu * gqt * vij * ozf * cpu ) zio * nnt * ueo ; }
 
 }

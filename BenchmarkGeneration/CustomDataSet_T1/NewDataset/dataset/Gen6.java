@@ -1,11 +1,11 @@
 class Gen6 {
 
-   void yoz ( double dzz , long zbe , boolean lci ) { if ( zal * dtv * eqk * cmo * yua * nux * xsx * zzi ) rwm * dcv * ene * dcj * wcz * lyc ; }
+   void wav ( float uqe , int dhz , boolean swa ) { if ( ofb ) if ( gyr ) if ( fkj * zms ) if ( ejr * ars ) if ( esx ) sjs ; }
 
-   void gcp ( double akn , float psd , boolean zrx ) { short jpy ; }
+   void way ( boolean qse , char phf , char qzt ) { ogz * vad * vis * lxl * dwy * znj ; }
 
-   void nxy ( float zbd , float hdh , int kmk ) { boolean udg ; }
+   void qyw ( boolean yrq , boolean fpb , char axb ) { boolean mva ; }
 
 
-    void rpc ( boolean   ssj , /* t1 */ boolean /* t1 */ axs /* t1 */ , char /* t1 */ iwl   ) { /* t1 */ byte oer ;   }
+    void   tva   ( /* t1 */ double nwi ,   boolean   fow ,   boolean   lde /* t1 */ ) /* t1 */ { if /* t1 */ ( /* t1 */ siw ) /* t1 */ wod   *   yec /* t1 */ * /* t1 */ tnx   * szt   ; }
 }

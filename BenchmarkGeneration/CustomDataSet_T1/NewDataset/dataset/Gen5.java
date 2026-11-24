@@ -1,9 +1,9 @@
 class Gen5 {
 
-   void qno ( boolean imv , double bjv , boolean tak ) { if ( oub * ggl * ttv * yfz * myn * gjl * zxd * dad * ffs * tzg ) foe * tdx * kmn * gxf * sjk ; }
+   void bdq ( boolean ojl , short zmj , long kzt ) { if ( uus ) yhk * xwv ; }
 
-   void qpp ( float rod , float qoy , boolean sid ) { boolean skm ; }
+   void fpo ( boolean bzn , double utl , byte lbz ) { if ( hei * msa * iwu ) btb * ykd * fwx * pyc * dhu * zto ; }
 
-   void rpc ( boolean ssj , boolean axs , char iwl ) { byte oer ; }
+   void tva ( double nwi , boolean fow , boolean lde ) { if ( siw ) wod * yec * tnx * szt ; }
 
 }

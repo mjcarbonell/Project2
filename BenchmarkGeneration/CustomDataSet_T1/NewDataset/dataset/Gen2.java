@@ -1,11 +1,11 @@
 class Gen2 {
 
-   void ivq ( double hit , boolean vkj , boolean yjq ) { double dhb ; }
+   void vrv ( double siu , boolean mmz , short kmq ) { if ( awk ) if ( kos ) wqc * wwg * ucl * qsx ; }
 
-   void iof ( byte mvi , long bsu , short ymv ) { jma * bbu * zpb * leo * hxw * wqj ; }
+   void brb ( boolean vap , boolean cqr , char nav ) { if ( xjq ) udx ; }
 
-   void ftp ( boolean pfp , boolean rrg , boolean wpd ) { uit ; }
+   void xnd ( boolean msh , boolean xul , double vay ) { boolean jqu ; }
 
 
-    void /* t1 */ oti ( boolean rsi   , /* t1 */ boolean /* t1 */ qmp , /* t1 */ float   joi /* t1 */ ) {   nwz ; /* t1 */ }
+    void   unl /* t1 */ ( /* t1 */ float /* t1 */ dgg   ,   boolean   otq   , int   iaq   )   { /* t1 */ kcv /* t1 */ ; }
 }

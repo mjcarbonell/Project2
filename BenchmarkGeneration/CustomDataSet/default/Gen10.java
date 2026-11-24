@@ -1,9 +1,9 @@
 class Gen10 {
 
-   void dev ( float omf , boolean eut , boolean ecl ) { boolean sjm ; }
+   void zcy ( long hzn , float cbr , double tjl ) { float nsn , whe , spj , fzf ; float vzv , nma , ren , mll ; if ( rnp ) lia * nel * sdb * pts * ils * ulp ; char jhs , azr , cpv , zdi ; }
 
-   void nry ( double kri , boolean edm , boolean ipz ) { ryr ; }
+   void xza ( boolean jjr , float qij , int iph ) { boolean mey , njd , dzy , tvp ; float kmx , vsi , ncn , gcq ; char mio , sxz , xnx , rpk ; kys ; }
 
-   void kec ( boolean sku , int awf , float wsr ) { pns * syq * qwz * jbs * mak * uex * ixp ; }
+   void acw ( char iqu , short bpu , short rjl ) { if ( hlj ) if ( tum * xsw * bbo * zhl ) if ( pre ) if ( ome * hfn ) if ( eoj ) viz ; if ( szg * hsk * cui * aai * gzu * kcm * plm ) if ( yqx * dwo * jsi * akg ) xnh ; vxt * seg * qvp * qvn * eyr * nlt * pnw * sbf * rdf ; float yve , ezu , mby , aqo ; }
 
 }

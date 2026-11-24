@@ -1,9 +1,9 @@
 class Gen3 {
 
-   void vyw ( boolean thf , boolean eqz , float zwx ) { boolean vdh ; }
+   void tix ( boolean vaz , long ewx , long ybi ) { boolean xdd ; }
 
-   void fqu ( boolean vim , char emh , boolean cnt ) { double vpy ; }
+   void lcr ( char afb , boolean mnr , byte yxh ) { char luf ; }
 
-   void xxr ( char cya , float fff , boolean jkq ) { boolean zut ; }
+   void hta ( short aby , byte hkh , byte ijb ) { short xuu ; }
 
 }

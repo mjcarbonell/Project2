@@ -1,9 +1,9 @@
 class Gen7 {
 
-   void biu ( char ywr , double cdv , boolean fwk ) { if ( pui ) if ( kks * xku * imc * kgs * mcu * lcv * nap * qsk ) nur * bjo * tmj ; }
+   void epc ( boolean hfw , boolean wmx , short oxx ) { nhq * opj * lqv * caj ; if ( qnq ) vnq ; ehh * pnf * gqg * gej * ntz * cvb * jvm * srm ; if ( xno ) if ( rcc ) jjb ; }
 
-   void ubz ( byte prp , double vdm , double aaa ) { if ( bbc * wea * jte * gec * bdu * iyn * spe * lby ) if ( vgc ) if ( gpt ) urk ; }
+   void yxf ( boolean gik , boolean xdb , boolean ilp ) { byte ici , tph , vwr , jjl ; if ( wmi ) qvd ; if ( jsf * bnz ) vpz ; boolean tbg , mjx , xui , qxq ; }
 
-   void drh ( char kvj , boolean hbd , byte qis ) { boolean rzv ; }
+   void lsc ( boolean coz , float ivm , boolean hth ) { double dxl , mwm , cak , eea ; boolean gpt , omn , vzw , vpr ; kzo * iyz * zsh ; qol ; }
 
 }

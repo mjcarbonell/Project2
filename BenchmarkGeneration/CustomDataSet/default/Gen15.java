@@ -1,9 +1,9 @@
 class Gen15 {
 
-   void gsb ( float kut , char rzt , double saf ) { swz ; }
+   void edx ( float vvc , boolean wao , boolean eyv ) { qbj * mab * upg * bjt * fae * mvh * cyh * fay * fcn * zdr * xzu ; ery * qtn * cai * ivx * zmb * awm * bee ; bkl * gfh ; if ( emd ) if ( pyf ) zyy ; }
 
-   void lnb ( boolean ymr , boolean tya , float kmf ) { if ( foi * xys * dyo * awk * zae * jeo * dnf ) itu * xyz * ogx * kkd * gph * kbc * eou * hge ; }
+   void ugw ( double xbg , double pgt , boolean sud ) { long cwn , rkl , iuu , ptj ; byte ebm , ipw , mkv , ejs ; sjv * egb ; cqy ; }
 
-   void qdc ( float guq , int goe , float tlr ) { enn * obr * yqj * itl ; }
+   void wzc ( boolean cgn , boolean ucy , byte csd ) { int naq , upe , qfz , daf ; boolean byq , oeo , ojb , ssu ; elb ; xbx * moq * ybf * bae ; }
 
 }

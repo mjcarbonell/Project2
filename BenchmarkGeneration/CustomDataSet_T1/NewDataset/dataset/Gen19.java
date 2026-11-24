@@ -1,9 +1,9 @@
 class Gen19 {
 
-   void jfg ( char nya , boolean vms , boolean yof ) { rzs ; }
+   void pbi ( int pbk , boolean jou , double xgl ) { ext * rci * ius ; }
 
-   void jet ( short jum , boolean ubz , long sll ) { boolean vfr ; }
+   void uad ( boolean yqw , boolean fls , char efd ) { if ( oub ) if ( zxg * oai * lbe * uoy * cbg ) if ( xaf * bey ) if ( sei ) jde ; }
 
-   void tho ( double ezs , boolean tic , boolean hnn ) { qsi ; }
+   void cza ( float onj , boolean emc , long xel ) { char gdc ; }
 
 }

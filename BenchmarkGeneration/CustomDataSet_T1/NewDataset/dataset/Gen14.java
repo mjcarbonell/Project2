@@ -1,11 +1,11 @@
 class Gen14 {
 
-   void osn ( boolean tcz , boolean plz , double dyh ) { boolean mdq ; }
+   void cqu ( byte ptg , double psg , boolean wkr ) { boolean dfs ; }
 
-   void xtg ( byte yit , double aef , boolean utk ) { if ( ioj * qkk ) if ( zfd ) vdx ; }
+   void nbt ( short wgm , double wna , boolean erp ) { int amc ; }
 
-   void ple ( float lcj , float kum , boolean qmk ) { boolean nix ; }
+   void wue ( short jry , short uuh , boolean cgx ) { boolean tke ; }
 
 
-    void   ynq ( double   uvz   ,   boolean xxc ,   long /* t1 */ tjf /* t1 */ ) {   boolean   mzr   ;   }
+    void xjm /* t1 */ (   boolean /* t1 */ naj /* t1 */ , boolean mnk /* t1 */ ,   short uza   ) /* t1 */ { boolean szr   ; /* t1 */ }
 }

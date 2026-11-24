@@ -1,11 +1,11 @@
 class Gen8 {
 
-   void ekx ( boolean byk , byte xhl , float xxn ) { float lka ; }
+   void hqt ( double mhc , int kdu , boolean erk ) { byte jph ; }
 
-   void rsm ( float kad , float scp , boolean mzo ) { if ( udd * zth * lko * xif ) if ( zok ) vxm ; }
+   void psr ( boolean wix , byte bgy , boolean moh ) { boolean aqt ; }
 
-   void aub ( boolean ztr , boolean wuu , boolean psj ) { hga * oiq ; }
+   void txg ( float mir , byte iul , boolean xfy ) { long ngw ; }
 
 
-    void ubz /* t1 */ (   byte /* t1 */ prp   , /* t1 */ double   vdm /* t1 */ , /* t1 */ double aaa   ) /* t1 */ { if ( /* t1 */ bbc *   wea *   jte   * gec *   bdu   * iyn /* t1 */ * spe /* t1 */ * lby   ) /* t1 */ if   ( /* t1 */ vgc ) if   ( /* t1 */ gpt /* t1 */ ) /* t1 */ urk ;   }
+    void /* t1 */ iiq   ( /* t1 */ double fgr /* t1 */ ,   boolean   uxc   , /* t1 */ long /* t1 */ ehp ) /* t1 */ { boolean /* t1 */ bws   ;   }
 }

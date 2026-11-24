@@ -1,11 +1,11 @@
 class Gen4 {
 
-   void eja ( float qkw , boolean zfj , float tnp ) { boolean xjc ; }
+   void uqp ( boolean ngp , boolean jhs , double aod ) { boolean did ; }
 
-   void dpi ( boolean vwo , char pxn , boolean dxf ) { afc ; }
+   void eqv ( boolean frk , short rqw , boolean ocu ) { boolean sxb ; }
 
-   void sgr ( boolean crr , boolean qjc , double glc ) { if ( khd ) qqk ; }
+   void pat ( boolean rwn , boolean zpv , float mai ) { if ( vpt * mwz * krs * hwd * obt * rpn ) if ( yqd * ljp * wmy * fxs ) ias ; }
 
 
-    void xxr   ( /* t1 */ char   cya , /* t1 */ float /* t1 */ fff   , boolean   jkq /* t1 */ ) /* t1 */ { boolean   zut /* t1 */ ; /* t1 */ }
+    void   lcr /* t1 */ ( char   afb   , boolean   mnr   , byte /* t1 */ yxh )   { char /* t1 */ luf /* t1 */ ; }
 }

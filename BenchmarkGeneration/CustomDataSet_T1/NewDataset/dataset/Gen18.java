@@ -1,11 +1,11 @@
 class Gen18 {
 
-   void gwm ( byte cps , float yya , boolean arw ) { xur * gcb ; }
+   void nun ( int kqw , boolean jgx , float jbv ) { qut * lqt * iow * vjv ; }
 
-   void apu ( boolean lrs , short uoq , boolean jmb ) { float ukx ; }
+   void bfg ( boolean fed , boolean osf , char vqe ) { if ( iav ) qfq * wvy ; }
 
-   void vcz ( boolean tku , byte but , short xpk ) { char evl ; }
+   void yui ( boolean esw , boolean gtf , short ozx ) { fka * zwe * tie * ghh ; }
 
 
-    void /* t1 */ gtq /* t1 */ ( boolean sfh   , double   xat   , float /* t1 */ fij )   {   double   zxy /* t1 */ ;   }
+    void vch (   float kjn , /* t1 */ float /* t1 */ nnx   , /* t1 */ boolean /* t1 */ flu   ) { hcr /* t1 */ ; /* t1 */ }
 }

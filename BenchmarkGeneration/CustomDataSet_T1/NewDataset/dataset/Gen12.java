@@ -1,11 +1,11 @@
 class Gen12 {
 
-   void wyu ( float avf , long jsp , boolean sfz ) { boolean qlf ; }
+   void wgo ( boolean epr , char etd , boolean ozh ) { lic * dwq ; }
 
-   void khv ( double acy , float imf , boolean yfz ) { if ( xku * ovv * blf * zkd ) feu ; }
+   void bwa ( float nds , boolean dps , double gvy ) { boolean kha ; }
 
-   void lhy ( float fyc , byte bzt , float qfz ) { boolean izx ; }
+   void vxg ( boolean myi , float zct , char lvh ) { apb ; }
 
 
-    void /* t1 */ slv ( /* t1 */ float clp /* t1 */ ,   int   rhs ,   boolean   vev   )   {   if /* t1 */ ( uaq *   agv   * /* t1 */ ijs   ) qwj   *   ljt /* t1 */ * euk * usz /* t1 */ ; /* t1 */ }
+    void /* t1 */ hhp   ( /* t1 */ byte   zzi   ,   double vtr   , float mcu )   { hon /* t1 */ * /* t1 */ xcx   * /* t1 */ thl   *   ena   ; }
 }

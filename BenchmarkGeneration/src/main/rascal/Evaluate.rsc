@@ -25,7 +25,7 @@ list[Pair] readCpd(loc xml) {
     list[Pair] out = [];
     for (str dup <- tail(split("\<duplication ", readFile(xml)))) { 
         // Grab each duplicate... With 2 <file> tags (usually the case), you get 2 fragments, which make 1 pair.
-        // With 3 <file> tags, the same code is in 3 places, which make 3 pairs (A–B, A–C, B–C). That's what line 35 is for.
+        // With 3 <file> tags, the same code is in 3 places, which make 3 pairs. That's what line 35 is for.
         list[Frag] fs = [];
         for (/\<file <attrs:[^\>]*>\/\>/ := dup) {
             str at = " " + attrs;
@@ -60,9 +60,9 @@ bool overlaps(Frag x, Frag y){
 bool matches(Pair t, Pair r){
     return (overlaps(t.a, r.a) && overlaps(t.b, r.b)) || (overlaps(t.a, r.b) && overlaps(t.b, r.a));
 }
-    
-str show(Pair p) = "<p.a.file>:<p.a.s>-<p.a.e> \<-\> <p.b.file>:<p.b.s>-<p.b.e>";
-
+str show(Pair p){ // for printing each pair. 
+    return "<p.a.file>:<p.a.s>-<p.a.e> \<-\> <p.b.file>:<p.b.s>-<p.b.e>";
+} 
 // Recall of reported pairs against the ground truth in dataset.
 // Prints the report and returns the same text, so main can also save it to results.txt.
 str evaluate(loc dataset, list[Pair] reported) {

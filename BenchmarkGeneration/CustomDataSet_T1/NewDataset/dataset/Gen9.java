@@ -1,9 +1,9 @@
 class Gen9 {
 
-   void uvf ( double bgt , float lzx , boolean xwk ) { float vad ; }
+   void kmf ( boolean oze , float xbn , boolean qty ) { float lwk ; }
 
-   void jme ( byte nly , float xka , boolean hva ) { double gvm ; }
+   void ryi ( long dfk , boolean dzj , boolean yqh ) { float vii ; }
 
-   void qgt ( boolean voa , long elz , byte avp ) { if ( kbc ) if ( sto * gcc * dnj * mbi * jgw ) jtu ; }
+   void zza ( boolean ffy , float iuu , long ioz ) { dks * wdt * ovv * dut * kdf * doj ; }
 
 }

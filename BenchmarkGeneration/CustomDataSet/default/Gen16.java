@@ -1,9 +1,9 @@
 class Gen16 {
 
-   void ylq ( boolean ijv , byte xfq , boolean bbb ) { float oyg ; }
+   void gph ( boolean app , double qea , float vls ) { boolean aak , svx , ery , zbd ; qyg ; if ( dov ) if ( ksa ) if ( see * mvc ) yoe ; wqg ; }
 
-   void tad ( long izs , double gth , float rbf ) { lhh ; }
+   void qvc ( boolean aqx , float jos , boolean toq ) { inn * keb ; boolean uin , wye , vkx , mnk ; boolean owb , prl , jlb , spy ; boolean ymg , hwe , mej , ddn ; }
 
-   void oug ( float jqa , float doe , boolean uxj ) { double ycb ; }
+   void mbz ( double miu , float sgv , boolean ufy ) { long qur , zag , kko , lvs ; boolean huq , ywx , kfs , pvs ; if ( jck * dys * oul * rdj * vyy ) swt ; boolean jka , dfw , knz , wob ; }
 
 }

@@ -1,9 +1,9 @@
 class Gen17 {
 
-   void gtq ( boolean sfh , double xat , float fij ) { double zxy ; }
+   void vch ( float kjn , float nnx , boolean flu ) { hcr ; }
 
-   void kfa ( float qmg , boolean uuf , int jhu ) { if ( eeo ) if ( qrp * hgz * aed ) hga ; }
+   void fbk ( boolean jki , boolean kqi , boolean vxv ) { if ( mco ) if ( gzl * eqq * vkq ) crf ; }
 
-   void ocj ( boolean dxq , boolean oln , long jiv ) { boolean srf ; }
+   void jhy ( char cii , float nna , boolean xas ) { boolean sjt ; }
 
 }

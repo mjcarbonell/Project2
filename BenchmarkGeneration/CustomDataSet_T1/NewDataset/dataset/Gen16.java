@@ -1,11 +1,11 @@
 class Gen16 {
 
-   void ylq ( boolean ijv , byte xfq , boolean bbb ) { float oyg ; }
+   void rvv ( long fng , boolean apt , char hur ) { ubo ; }
 
-   void tad ( long izs , double gth , float rbf ) { lhh ; }
+   void vcy ( double hmr , boolean zpb , float wkm ) { boolean jac ; }
 
-   void oug ( float jqa , float doe , boolean uxj ) { double ycb ; }
+   void zvh ( double ucm , short uus , boolean pmu ) { float yjj ; }
 
 
-    void /* t1 */ gsb /* t1 */ ( /* t1 */ float kut   , char /* t1 */ rzt ,   double /* t1 */ saf   )   { swz ; }
+    void /* t1 */ uqg ( /* t1 */ float syo /* t1 */ , int   mwg /* t1 */ , /* t1 */ boolean pey ) /* t1 */ { /* t1 */ boolean   hnw /* t1 */ ;   }
 }

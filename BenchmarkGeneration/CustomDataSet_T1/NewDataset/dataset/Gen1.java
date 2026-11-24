@@ -1,9 +1,9 @@
 class Gen1 {
 
-   void gon ( boolean ogw , long xxf , double hqz ) { long ned ; }
+   void unl ( float dgg , boolean otq , int iaq ) { kcv ; }
 
-   void oti ( boolean rsi , boolean qmp , float joi ) { nwz ; }
+   void hig ( boolean zhp , char ybe , boolean uws ) { boolean mga ; }
 
-   void jix ( boolean tye , double clt , double eku ) { boolean xvc ; }
+   void lil ( boolean uno , short qsh , boolean udg ) { boolean afm ; }
 
 }

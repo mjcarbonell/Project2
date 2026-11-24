@@ -1,9 +1,9 @@
 class Gen11 {
 
-   void slv ( float clp , int rhs , boolean vev ) { if ( uaq * agv * ijs ) qwj * ljt * euk * usz ; }
+   void jrv ( boolean gfi , boolean dmi , double ryl ) { boolean qql ; }
 
-   void wez ( boolean eqx , boolean gxa , boolean zyv ) { char yho ; }
+   void ryt ( char rni , boolean pld , double qso ) { boolean umy ; }
 
-   void poo ( boolean lao , boolean nso , long lcy ) { short gpd ; }
+   void hhp ( byte zzi , double vtr , float mcu ) { hon * xcx * thl * ena ; }
 
 }

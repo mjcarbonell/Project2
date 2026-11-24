@@ -1,11 +1,11 @@
 class Gen10 {
 
-   void dev ( float omf , boolean eut , boolean ecl ) { boolean sjm ; }
+   void iqw ( boolean mlw , boolean zqh , boolean uuj ) { boolean lsq ; }
 
-   void nry ( double kri , boolean edm , boolean ipz ) { ryr ; }
+   void doz ( double wej , boolean fjo , boolean liw ) { if ( dcd * may ) if ( pgj * plu * zem * lsz ) zvh * hba * wsy ; }
 
-   void kec ( boolean sku , int awf , float wsr ) { pns * syq * qwz * jbs * mak * uex * ixp ; }
+   void dwq ( float ggv , double sjk , boolean erk ) { double vuy ; }
 
 
-    void /* t1 */ qgt ( boolean voa , long   elz ,   byte avp /* t1 */ ) {   if (   kbc /* t1 */ )   if   ( /* t1 */ sto * gcc *   dnj /* t1 */ *   mbi   *   jgw   ) /* t1 */ jtu /* t1 */ ; }
+    void /* t1 */ kmf /* t1 */ ( /* t1 */ boolean /* t1 */ oze /* t1 */ , float xbn ,   boolean qty )   { float lwk /* t1 */ ; /* t1 */ }
 }
