@@ -7,5 +7,5 @@ class Gen16 {
    void jqt ( float gkd , boolean cgd , long lsq ) { float nyi , arr , snv , jel ; rgs * pzj ; boolean qrw , yvz , xat , qeq ; boolean edp , qrg , erg , vvf ; }
 
 
-    void /* t1 */ ygm /* t1 */ ( /* t1 */ int qfn , /* t1 */ boolean itg   , boolean kxt /* t1 */ ) { /* t1 */ wak   ;   yzo   * wxh * /* t1 */ sge * eyx   *   yvu   ; short   rfa /* t1 */ , kuu , /* t1 */ rrm /* t1 */ , eqs ; if   ( cck /* t1 */ )   if   ( pjs   * nze ) mtp   * vjd * /* t1 */ iwi   ;   }
+    void /* t1 */ dru /* t1 */ ( float /* t1 */ pvv ,   char ocg ,   double   ynm /* t1 */ ) { boolean /* t1 */ jlb /* t1 */ ,   bas , exw   , /* t1 */ dsm ; /* t1 */ boolean kcj /* t1 */ , /* t1 */ fqu , ned , jpb ;   if (   bbu   *   vzd )   if   ( nbb ) if /* t1 */ ( buf ) if (   oya   ) /* t1 */ nfc ;   boolean   wwh , /* t1 */ any /* t1 */ , qgd   , bqn   ; }
 }

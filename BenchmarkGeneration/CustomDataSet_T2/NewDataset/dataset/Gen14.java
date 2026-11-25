@@ -7,5 +7,5 @@ class Gen14 {
    void uvn ( double kxm , boolean nid , boolean lbu ) { if ( yrh ) if ( cxq ) yov * saa * whn * ebw ; short mzv , cyo , wrr , pbo ; if ( gar * fsl * tcf ) if ( mif * tlm * igp * shf * mbp ) if ( cjn ) if ( wbv ) if ( vay ) dji ; boolean glb , kkq , dak , hye ; }
 
 
-    void   sdm   ( /* t1 */ double ebd /* t1 */ , /* t1 */ boolean /* t1 */ cha /* t1 */ , /* t1 */ boolean /* t1 */ mdw   ) /* t1 */ {   if /* t1 */ ( /* t1 */ hjl /* t1 */ * /* t1 */ zuf ) /* t1 */ if   (   naz /* t1 */ * mtf /* t1 */ *   vfl * /* t1 */ but ) /* t1 */ if /* t1 */ ( uba   ) /* t1 */ if ( /* t1 */ azx )   if /* t1 */ (   jrt   )   hpq /* t1 */ ; /* t1 */ xkb * zyk ;   kzn ; /* t1 */ if /* t1 */ ( nlo * gxq /* t1 */ * /* t1 */ ggv   * /* t1 */ sxx   )   if /* t1 */ ( sde /* t1 */ )   if ( /* t1 */ mij   *   npq   * /* t1 */ yei * bfq )   wph *   dml /* t1 */ ; /* t1 */ }
+    void   qql (   double rit   , boolean /* t1 */ dtm   , boolean /* t1 */ eby ) {   if   (   jix *   udd )   if /* t1 */ ( /* t1 */ umm   * /* t1 */ tyh /* t1 */ * dsl /* t1 */ *   lxg ) /* t1 */ if /* t1 */ ( kbk )   if (   nxo   )   if   ( /* t1 */ ycw   ) /* t1 */ omj   ; yuv   * dxh /* t1 */ ; lvz /* t1 */ ; /* t1 */ if ( /* t1 */ pma /* t1 */ * mbj * vdp * /* t1 */ qss   ) if   ( ons ) if /* t1 */ ( zln /* t1 */ * /* t1 */ rta /* t1 */ * znl   * ela ) lhh   * /* t1 */ fbx ;   }
 }

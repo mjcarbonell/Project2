@@ -103,11 +103,11 @@ void x1 (boolean x2, long x3, boolean x4) {
 }
 </source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen12.java" startline="10" endline="10">
-void x1 (boolean x2, double x3, boolean x4) {
+void x1 (boolean x2, float x3, boolean x4) {
     boolean x5, x6, x7, x8;
-    int x9, x10, x11, x12;
-    boolean x13, x14, x15, x16;
-    boolean x17, x18, x19, x20;
+    x9 * x10;
+    x11;
+    x12;
 }
 </source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen13.java" startline="3" endline="3">
@@ -215,11 +215,11 @@ void x1 (float x2, boolean x3, long x4) {
 }
 </source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen16.java" startline="10" endline="10">
-void x1 (int x2, boolean x3, boolean x4) {
-    x5;
-    x6 * x7 * x8 * x9 * x10;
-    short x11, x12, x13, x14;
-    if (x15) if (x16 * x17) x18 * x19 * x20;
+void x1 (float x2, char x3, double x4) {
+    boolean x5, x6, x7, x8;
+    boolean x9, x10, x11, x12;
+    if (x13 * x14) if (x15) if (x16) if (x17) x18;
+    boolean x19, x20, x21, x22;
 }
 </source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen17.java" startline="3" endline="3">
@@ -327,11 +327,11 @@ void x1 (boolean x2, double x3, boolean x4) {
 }
 </source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen2.java" startline="10" endline="10">
-void x1 (char x2, boolean x3, float x4) {
-    x5 * x6 * x7 * x8 * x9 * x10;
-    if (x11) x12 * x13 * x14;
-    boolean x15, x16, x17, x18;
-    x19 * x20 * x21 * x22 * x23 * x2;
+void x1 (long x2, long x3, char x4) {
+    if (x5) x6 * x7 * x8;
+    short x9, x10, x11, x12;
+    x13 * x14 * x15 * x16 * x17 * x18 * x19 * x20 * x21;
+    x22 * x23 * x24 * x25 * x26 * x27 * x28;
 }
 </source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen20.java" startline="3" endline="3">
@@ -359,11 +359,11 @@ void x1 (boolean x2, double x3, boolean x4) {
 }
 </source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen20.java" startline="10" endline="10">
-void x1 (double x2, boolean x3, boolean x4) {
-    float x5, x6, x7, x8;
-    if (x9) x10 * x11 * x12 * x13 * x14 * x15 * x16;
-    float x17, x18, x19, x20;
-    boolean x21, x22, x23, x24;
+void x1 (double x2, double x3, long x4) {
+    boolean x5, x6, x7, x8;
+    boolean x9, x10, x11, x12;
+    float x13, x14, x15, x16;
+    if (x17 * x18 * x19 * x20 * x21 * x22 * x23) if (x24) if (x25) if (x26) if (x27) x28;
 }
 </source>
 <source file="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset/Gen3.java" startline="3" endline="3">

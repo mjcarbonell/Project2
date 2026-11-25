@@ -1,0 +1,30 @@
+run: NewDataset
+NiCad: type-1 config (t1small, minsize=1)
+CPD: minimum tokens 10
+Duplo: min lines 1
+
+== NiCad ==
+ground truth pairs: 10
+reported pairs:     10
+recall:             10/10 = 100%
+reported pairs not in ground truth: 0
+
+== CPD ==
+ground truth pairs: 10
+reported pairs:     10
+recall:             10/10 = 100%
+reported pairs not in ground truth: 0
+
+== Duplo ==
+ground truth pairs: 10
+reported pairs:     10
+recall:             6/10 = 60%
+  missed Gen3.java:5-5 <-> Gen4.java:10-10
+  missed Gen11.java:5-5 <-> Gen12.java:10-10
+  missed Gen15.java:3-3 <-> Gen16.java:10-10
+  missed Gen19.java:5-5 <-> Gen20.java:10-10
+reported pairs not in ground truth: 4
+  extra  Gen11.java:7-7 <-> Gen12.java:10-10
+  extra  Gen15.java:7-7 <-> Gen16.java:10-10
+  extra  Gen19.java:7-7 <-> Gen20.java:10-10
+  extra  Gen3.java:7-7 <-> Gen4.java:10-10

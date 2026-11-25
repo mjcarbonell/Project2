@@ -7,5 +7,5 @@ class Gen4 {
    void dig ( boolean ijg , double sdy , char jvi ) { boolean cdh , jwr , wrv , yys ; boolean zkv , hgd , bzm , jjz ; double ynp , ndo , nke , pzt ; if ( gvw * yqa * dds * yly * jsn * ycj * zlt * aht ) if ( jtr ) mxv ; }
 
 
-    void /* t1 */ atf ( /* t1 */ boolean /* t1 */ bch /* t1 */ ,   short   whx , /* t1 */ long kyz ) /* t1 */ { /* t1 */ sho *   mgd ; /* t1 */ xww /* t1 */ * /* t1 */ txp * uef /* t1 */ * cks /* t1 */ *   pjv /* t1 */ ;   int /* t1 */ mgo   ,   vzb , ukg   , /* t1 */ wec   ;   boolean   rou /* t1 */ , /* t1 */ yos   , /* t1 */ wov /* t1 */ , ygn /* t1 */ ; }
+    void jqh /* t1 */ (   boolean deh /* t1 */ , short urf   , long aww /* t1 */ ) /* t1 */ { cpl * fgx /* t1 */ ;   ysb   * /* t1 */ vob   *   lvm * wzr /* t1 */ *   skg /* t1 */ ; int   uth   ,   xbd /* t1 */ , /* t1 */ cfg   , rts   ; boolean   tls   ,   gri , /* t1 */ wle , gpo /* t1 */ ; /* t1 */ }
 }

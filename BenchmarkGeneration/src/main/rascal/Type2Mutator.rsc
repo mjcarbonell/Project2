@@ -100,18 +100,26 @@ void main(str runName = "NewDataset", int cpdMinTokens = 10, bool withLayout = t
     // CPD: --ignore-identifiers, otherwise renamed code counts as different
     println(exec("wsl", args=["bash", "-lc", "~/pmd/bin/pmd cpd --language java --minimum-tokens <cpdMinTokens> --ignore-identifiers --dir <wsl>/dataset --format xml --no-fail-on-violation \> <wsl>/cpd.xml 2\>/dev/null"]));
     list[Pair] cp = readCpd(run + "cpd.xml");
+    // Duplo in WSL (line based; ignores whitespace and comments inside a line, but not renamed identifiers).
+    // It reads a list of files, which ls writes first. -ml 1: a single duplicated line counts (methods are one line)
+    println(exec("wsl", args=["bash", "-lc", "ls <wsl>/dataset/*.java \> <wsl>/duplo_files.txt && ~/duplo/duplo -ml 1 -xml <wsl>/duplo_files.txt <wsl>/duplo.xml \>/dev/null 2\>&1"]));
+    list[Pair] dp = readDuplo(run + "duplo.xml");
 
     println("\n== NiCad ==");
     str nicadReport = evaluate(run, ps);
     println("\n== CPD ==");
     str cpdReport = evaluate(run, cp);
+    println("\n== Duplo ==");
+    str duploReport = evaluate(run, dp);
     // Same report, saved next to clones.csv so each run folder documents itself
     writeFile(run + "results.txt",
         "run: <runName>\n"
         + "Type-2, layout changes: <withLayout>\n"
         + "NiCad: type-2c config (t2small, minsize=1)\n"
         + "CPD: minimum tokens <cpdMinTokens>, ignore identifiers\n"
+        + "Duplo: min lines 1\n"
         + "\n== NiCad ==\n" + nicadReport
-        + "\n== CPD ==\n" + cpdReport);
+        + "\n== CPD ==\n" + cpdReport
+        + "\n== Duplo ==\n" + duploReport);
     println("\nwrote <run + "results.txt">");
 }

@@ -7,5 +7,5 @@ class Gen18 {
    void ooj ( boolean jjk , float rqn , boolean nlt ) { float two , kwq , dip , tra ; wut ; char qvy , lls , xrv , emf ; if ( rxv ) tdj ; }
 
 
-    void ust /* t1 */ (   boolean   eyf   , /* t1 */ short   sfl /* t1 */ , char /* t1 */ bav   ) /* t1 */ { /* t1 */ if /* t1 */ ( /* t1 */ amx ) /* t1 */ if   ( lmp   ) /* t1 */ smm /* t1 */ ; /* t1 */ if   ( gmk   * dsr   *   dvc * /* t1 */ fmy /* t1 */ *   pie ) /* t1 */ atx /* t1 */ ; /* t1 */ boolean /* t1 */ gjd , qty   ,   kxc /* t1 */ ,   wqa   ; /* t1 */ boolean   zvr   ,   wrn   ,   abk , qnc /* t1 */ ;   }
+    void /* t1 */ oym ( boolean /* t1 */ emx /* t1 */ ,   short vke , /* t1 */ char edc /* t1 */ ) { /* t1 */ if ( /* t1 */ erw   )   if /* t1 */ ( /* t1 */ jrc   )   zub ; if   ( /* t1 */ ssb   * /* t1 */ vfb   * qyx *   ckb *   gxk ) jpr ; boolean pyd   , /* t1 */ jgk /* t1 */ ,   mkk /* t1 */ , /* t1 */ itz   ; boolean   tfv ,   zww /* t1 */ , /* t1 */ out , /* t1 */ zyu ; }
 }

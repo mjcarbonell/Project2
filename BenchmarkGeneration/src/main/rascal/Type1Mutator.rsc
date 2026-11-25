@@ -73,17 +73,26 @@ void main(str runName = "NewDataset", int cpdMinTokens = 10) { // CPD reports du
     println(exec("wsl", args=["bash", "-lc","~/pmd/bin/pmd cpd --language java --minimum-tokens <cpdMinTokens> --dir /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/<runName>/dataset --format xml --no-fail-on-violation \> /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/<runName>/cpd.xml 2\>/dev/null"]));
     list[Pair] cp = readCpd(run + "cpd.xml");
 
+    // Duplo in WSL (line based; ignores whitespace and comments inside a line). It reads a list of files,
+    // which ls writes first. -ml 1: a single duplicated line counts, since every generated method is one line
+    println(exec("wsl", args=["bash", "-lc", "ls /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/<runName>/dataset/*.java \> /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/<runName>/duplo_files.txt && ~/duplo/duplo -ml 1 -xml /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/<runName>/duplo_files.txt /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/<runName>/duplo.xml \>/dev/null 2\>&1"]));
+    list[Pair] dp = readDuplo(run + "duplo.xml");
+
     println("\n== NiCad ==");
     str nicadReport = evaluate(run, ps);
     println("\n== CPD ==");
     str cpdReport = evaluate(run, cp);
+    println("\n== Duplo ==");
+    str duploReport = evaluate(run, dp);
 
     // Same report, saved next to clones.csv so each run folder documents itself
     writeFile(run + "results.txt",
         "run: <runName>\n"
         + "NiCad: type-1 config (t1small, minsize=1)\n"
         + "CPD: minimum tokens <cpdMinTokens>\n"
+        + "Duplo: min lines 1\n"
         + "\n== NiCad ==\n" + nicadReport
-        + "\n== CPD ==\n" + cpdReport);
+        + "\n== CPD ==\n" + cpdReport
+        + "\n== Duplo ==\n" + duploReport);
     println("\nwrote <run + "results.txt">");
 }

@@ -53,6 +53,21 @@ list[int] methodTokens(loc file, int s, int e) =
     [size([w | w <- split(" ", replaceAll(l, "/* t1 */", "")), w != ""])
     | l <- readFileLines(file)[s-1..e], contains(l, "(")];
 
+// Duplo XML -> list of pairs. Each <set> lists 2 or more <block .../> tags (one per location of the
+// duplicated lines), so every combination of its blocks becomes one pair.
+list[Pair] readDuplo(loc xml) {
+    list[Pair] out = [];
+    for (str dupSet <- tail(split("\<set ", readFile(xml)))) {
+        list[Frag] fs = [];
+        for (/\<block SourceFile="<p:[^"]*>" StartLineNumber="<s:[0-9]+>" EndLineNumber="<e:[0-9]+>"/ := dupSet) {
+            list[str] parts = split("/", p);
+            fs += [<parts[size(parts)-2], parts[size(parts)-1], toInt(s), toInt(e)>];
+        }
+        out += [<fs[i], fs[j]> | i <- [0..size(fs)], j <- [i+1..size(fs)]];
+    }
+    return out;
+}
+
 // functions.csv + clones.csv -> ground-truth pairs
 list[Pair] readTruth(loc dataset) {
     map[int, Frag] frags = ();

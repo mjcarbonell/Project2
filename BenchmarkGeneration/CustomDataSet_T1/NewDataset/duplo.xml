@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<duplo>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen1.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen2.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void cin ( double sed , double atx , boolean fit ) { if ( uin ) if ( ztc ) if ( ofa ) tbe ; if ( ira * ktf ) if ( pje * iwy * dvh * aoa * psp * wjv * lso ) nxg ; sfe ; pck * ddo ; }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen10.java" StartLineNumber="10" EndLineNumber="10"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen9.java" StartLineNumber="5" EndLineNumber="5"/>
+        <lines xml:space="preserve">
+            <line Text="    void   vlq  (   double  suw ,  int jsd , float nnb   )  {   boolean sad   , xow , jen ,  idc  ;  int  ava   , hxt , zcw ,   ids   ;   double aho ,  vav  , ero   , udc ;  boolean  jvu   ,  stm ,   mjh  , joz  ;   }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen11.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen12.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void tvw ( boolean zau , double zjh , boolean xep ) { boolean jev , avd , zqx , gcv ; int hhj , xxa , bhi , vnk ; boolean oco , shx , mmb , jhy ; boolean pvc , evw , bfg , gbo ; }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen13.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen14.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void jiw ( char aly , boolean haw , short yhi ) { int ggb , ezg , tat , lsj ; gau ; if ( bgc ) zky * elw * jgb * rzv ; if ( asb * vlj * mws * mkx * ryf ) if ( ypu ) qcd * coh * vrk * fwt ; }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen15.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen16.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void lgn ( int eox , boolean tjf , boolean mdg ) { rmw ; jrz * zrq * xcs * gdn * jvt ; short ugf , acx , ocy , ccf ; if ( cxl ) if ( rbe * rak ) qmt * hfw * edj ; }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen17.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen18.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void bbr ( short abn , int gdh , boolean ygb ) { ozd * bwa * yyy ; long rno , ltl , yiz , zmm ; byte xns , nqn , fpv , jor ; char jrs , ggv , sme , cmf ; }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen19.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen20.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void fjn ( double tah , double cfp , long dwy ) { boolean vwl , pjc , zzl , klm ; boolean zav , est , ose , hxb ; float ggb , xeo , xsk , tdt ; if ( apf * gco * jey * oje * zna * pbk * nbs ) if ( zbz ) if ( nrg ) if ( pqc ) if ( fat ) azc ; }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen3.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen4.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void faa ( float emf , float akt , boolean gkg ) { if ( zcq ) if ( kmj ) if ( iuj * vlz * mdi ) if ( pzl * ppg ) if ( yta ) dnn ; if ( rqv ) hpu * vko ; boolean iez , qke , yod , ivg ; if ( nec ) dgw * krt ; }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen5.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen6.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void vvg ( boolean lra , float bfb , boolean awy ) { if ( dnl * uuh ) ggn * icx * ajt ; float fef , zpu , fsq , ekn ; byte doe , zur , pit , uoc ; utn ; }"/>
+        </lines>
+    </set>
+    <set LineCount="1">
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen7.java" StartLineNumber="7" EndLineNumber="7"/>
+        <block SourceFile="/mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T1/NewDataset/dataset/Gen8.java" StartLineNumber="10" EndLineNumber="10"/>
+        <lines xml:space="preserve">
+            <line Text="   void zsw ( float eeu , boolean nok , boolean jgf ) { if ( lmg * tlk * ewt * mhw * amt * ehh * hxc * agh ) qac * mop ; if ( nuk * oce * srf * gga * fuu * oni * pfe * szm * jkg * lcp ) if ( rgd * wcr ) if ( soi * xpq * oby * fsa ) if ( agn * dts ) fmq ; fux * vkg * vev * unj * gul * dog ; double ida , ehw , aji , btu ; }"/>
+        </lines>
+    </set>
+</duplo>

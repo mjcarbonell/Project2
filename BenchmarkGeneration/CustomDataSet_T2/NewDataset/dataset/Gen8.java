@@ -7,5 +7,5 @@ class Gen8 {
    void xlg ( boolean tdy , char evs , byte utv ) { boolean lhv , zom , wag , dpy ; if ( bpo * kpx * cpk * xkm ) tlu ; if ( hsw ) if ( qci ) if ( smk ) lyv * ocb ; wbz ; }
 
 
-    void /* t1 */ xog /* t1 */ ( boolean lrh   , double qmu , /* t1 */ boolean /* t1 */ agb ) /* t1 */ { int   igz   , aud   ,   xfl /* t1 */ ,   auu   ; /* t1 */ bhm   *   gmq * /* t1 */ txq /* t1 */ * /* t1 */ uyt   * /* t1 */ lop   * /* t1 */ dfn * /* t1 */ xrj   ;   tpz * /* t1 */ hoq * /* t1 */ tfm   *   mnm * /* t1 */ kga /* t1 */ *   brn /* t1 */ *   erm ;   byte   alu /* t1 */ , onc , rsh /* t1 */ ,   gel /* t1 */ ; /* t1 */ }
+    void /* t1 */ osq   ( boolean jyr   , /* t1 */ double   pxj   , /* t1 */ boolean /* t1 */ sgm ) { /* t1 */ int nht , /* t1 */ ogg ,   tgw   , hqe ; /* t1 */ bix /* t1 */ * /* t1 */ riz   * /* t1 */ njo * zkp * dtm   * /* t1 */ xor   * /* t1 */ aeu /* t1 */ ; /* t1 */ alq *   ipg * /* t1 */ xrl /* t1 */ *   rkp   * /* t1 */ ahv *   ize * /* t1 */ lxr /* t1 */ ; /* t1 */ byte uec   , /* t1 */ eem ,   uya   ,   vcc ; }
 }
