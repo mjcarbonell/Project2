@@ -36,12 +36,16 @@ str freshName(set[str] taken) {
 }
 // Consistent renaming: every occurrence of the same identifier gets the same new name
 tuple[Tree tree, map[str, str] ren] renameIds(MethodDec m, set[str] taken) {
-    map[str, str] ren = ();
-    Tree t = visit (m) {
-        case Id i: {
-            str old = "<i>";
-            if (old notin ren) ren[old] = freshName(taken + range(ren));
-            insert parse(#Id, ren[old]);
+    map[str, str] ren = (); // A dictionary of old identifiers and their new identifiers that are guranteed to be unique in file b and not in keywords. 
+    Tree t = visit (m) { // go through the methodDeclation the original file A method. 
+        case Id i: { // for every identifier i
+            str old = "<i>"; // get the identifier in string form, namely i  
+            if (old notin ren){ // if old string is not in the renamed dictionary... 
+                ren[old] = freshName(taken + range(ren)); // then we assign that old identifier a new fresh name. Must not be in taken OR 
+                // the values of the previous fresh names. Range(ren) yeilds the set of values of ren. 
+            }
+            // Insert https://www.rascal-mpl.org/docs/Rascal/Statements/Insert/
+            insert parse(#Id, ren[old]); // Replace this Id node with a new Id node (parsed by the Id rule) spelled as the fresh name
         }
     };
     return <t, ren>;
@@ -54,7 +58,7 @@ void injectT2(loc src, loc out, str a, str name, str b, int idA, int idB, bool w
     // names already used in file B: the mutant must not collide with them
     // 
     set[str] taken = {"<i>" | /Id i := parse(#start[CompilationUnit], src + b, allowAmbiguity=true)};
-    <mutated, ren> = renameIds(m, taken);
+    <mutated, ren> = renameIds(m, taken); // 
     if (withLayout) {
         mutated = visit (mutated) {
             case Tree t => mutateLayout(t) when isLayout(t)
