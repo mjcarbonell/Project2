@@ -15,21 +15,25 @@ import lang::java::\syntax::Java15;
 
 // A random 3-letter lowercase name, like the generator's names
 str randomName() {
-    str s = "";
-    for (_ <- [0..3]) s += stringChar(97 + arbInt(26)); // 97 = 'a'
+    str s = ""; // three letter identifier/word. 
+    for (_ <- [0..3]){
+        s += stringChar(97 + arbInt(26)); // 97 = 'a'
+    }
     return s;
 }
 
 // A name not in taken that parses as an Id (so it is not a keyword like "int" or "for")
+set[str] keywords = {"for", "int", "new", "try"};
 str freshName(set[str] taken) {
     while (true) {
         str s = randomName();
-        if (s in taken) continue;
-        try { parse(#Id, s); return s; }
-        catch: continue;
+        // New methodName is guranteed to not be in file B and not in keywords... 
+        // could be the same name from earleir files but that does not matter since we ensure that the actual sequence of grammar is different. 
+        if (s notin taken && s notin keywords) { 
+            return s;
+        }
     }
 }
-
 // Consistent renaming: every occurrence of the same identifier gets the same new name
 tuple[Tree tree, map[str, str] ren] renameIds(MethodDec m, set[str] taken) {
     map[str, str] ren = ();
@@ -45,13 +49,16 @@ tuple[Tree tree, map[str, str] ren] renameIds(MethodDec m, set[str] taken) {
 
 // One injection = one Type-2 reference pair. out is the run folder (CustomDataSet_T2/<runName>/)
 void injectT2(loc src, loc out, str a, str name, str b, int idA, int idB, bool withLayout) {
-    Tree cuA = parse(#start[CompilationUnit], src + a, allowAmbiguity=true);
+    Tree cuA = parse(#start[CompilationUnit], src + a, allowAmbiguity=true); // Compilation unit of file A. 
     MethodDec m = findMethod(cuA, name);
     // names already used in file B: the mutant must not collide with them
+    // 
     set[str] taken = {"<i>" | /Id i := parse(#start[CompilationUnit], src + b, allowAmbiguity=true)};
     <mutated, ren> = renameIds(m, taken);
     if (withLayout) {
-        mutated = visit (mutated) { case Tree t => mutateLayout(t) when isLayout(t) };
+        mutated = visit (mutated) {
+            case Tree t => mutateLayout(t) when isLayout(t)
+        };
     }
     str mutant = unparse(mutated);
     int s1 = m.src.begin.line;

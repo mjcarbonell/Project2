@@ -7,5 +7,5 @@ class Gen20 {
    void drr ( boolean sov , double oay , boolean ubt ) { boolean rbn , kvh , bao , din ; gpg * jxs * qtr * qjl * onz * bry * fnf * lfl ; if ( myb * cij ) if ( syq * ccv ) wiv * iun ; boolean rbp , hah , tdc , qpy ; }
 
 
-    void /* t1 */ stl ( /* t1 */ double   vnu   , boolean /* t1 */ uwo /* t1 */ ,   boolean   fqm   ) /* t1 */ {   float esi , khf , uby /* t1 */ , ybm   ; if   (   ivj /* t1 */ ) /* t1 */ biy /* t1 */ * suc   * /* t1 */ bos   * nqz   *   hfy   * /* t1 */ mih * /* t1 */ ybh   ;   float   chh ,   nsd /* t1 */ , pll ,   vnh /* t1 */ ; /* t1 */ boolean /* t1 */ kuk , ovq /* t1 */ , xzn , wju   ; /* t1 */ }
+    void /* t1 */ vny ( /* t1 */ double   eyw , boolean dpa , boolean kpy /* t1 */ ) /* t1 */ {   float   dhr ,   qyt , lyb   , bcl ; if ( /* t1 */ fuz   ) oqz /* t1 */ * ism *   ews /* t1 */ *   yvt * yfv /* t1 */ * ekg *   kuw   ; /* t1 */ float   twc   ,   zki ,   jyy /* t1 */ , muq ; boolean lku   , /* t1 */ mbf , /* t1 */ ymo   , /* t1 */ cbm /* t1 */ ; /* t1 */ }
 }

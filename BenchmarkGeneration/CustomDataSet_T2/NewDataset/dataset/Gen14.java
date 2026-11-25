@@ -7,5 +7,5 @@ class Gen14 {
    void uvn ( double kxm , boolean nid , boolean lbu ) { if ( yrh ) if ( cxq ) yov * saa * whn * ebw ; short mzv , cyo , wrr , pbo ; if ( gar * fsl * tcf ) if ( mif * tlm * igp * shf * mbp ) if ( cjn ) if ( wbv ) if ( vay ) dji ; boolean glb , kkq , dak , hye ; }
 
 
-    void /* t1 */ rmb /* t1 */ ( boolean wrk   ,   short tju   , /* t1 */ long   gqz ) /* t1 */ { if /* t1 */ (   tpx * /* t1 */ fqz * /* t1 */ xty /* t1 */ * /* t1 */ tdk   * /* t1 */ rga /* t1 */ * tmv   *   cek   ) dyg   ; /* t1 */ double   qrp /* t1 */ , /* t1 */ ckm /* t1 */ , /* t1 */ mgm /* t1 */ ,   eli /* t1 */ ; if   (   etb /* t1 */ ) if /* t1 */ (   ygy /* t1 */ * sal * tkh )   ufr /* t1 */ ; /* t1 */ float sek /* t1 */ , /* t1 */ uou   ,   huz   , zfk /* t1 */ ; /* t1 */ }
+    void   sdm   ( /* t1 */ double ebd /* t1 */ , /* t1 */ boolean /* t1 */ cha /* t1 */ , /* t1 */ boolean /* t1 */ mdw   ) /* t1 */ {   if /* t1 */ ( /* t1 */ hjl /* t1 */ * /* t1 */ zuf ) /* t1 */ if   (   naz /* t1 */ * mtf /* t1 */ *   vfl * /* t1 */ but ) /* t1 */ if /* t1 */ ( uba   ) /* t1 */ if ( /* t1 */ azx )   if /* t1 */ (   jrt   )   hpq /* t1 */ ; /* t1 */ xkb * zyk ;   kzn ; /* t1 */ if /* t1 */ ( nlo * gxq /* t1 */ * /* t1 */ ggv   * /* t1 */ sxx   )   if /* t1 */ ( sde /* t1 */ )   if ( /* t1 */ mij   *   npq   * /* t1 */ yei * bfq )   wph *   dml /* t1 */ ; /* t1 */ }
 }

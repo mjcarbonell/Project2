@@ -7,5 +7,5 @@ class Gen6 {
    void iix ( double mnk , boolean hni , short tvq ) { int inq , ixh , two , jkr ; if ( tle ) end * gnr * efu ; if ( rih ) if ( ywu * vmt ) ftt ; wxj * mpj ; }
 
 
-    void /* t1 */ seu /* t1 */ ( /* t1 */ boolean /* t1 */ amw   , float /* t1 */ mok   , boolean dep   ) /* t1 */ { if (   xrh   * /* t1 */ goj   )   wvo /* t1 */ * /* t1 */ rbd /* t1 */ * ias /* t1 */ ;   float   njk , avi /* t1 */ ,   ujr ,   bja ;   byte rpp   ,   aeb , /* t1 */ cyx ,   xfq /* t1 */ ;   kvl   ; }
+    void /* t1 */ ttp   ( boolean zzx   ,   float   igs , float   asy   )   {   boolean   cbo ,   nxp   ,   zci , /* t1 */ axr /* t1 */ ; /* t1 */ siz /* t1 */ ;   int   xyg , /* t1 */ fuj /* t1 */ ,   fkr /* t1 */ ,   tlx ; bdq   ;   }
 }

@@ -97,8 +97,8 @@ list[int] writeGenFile(str name, int methods, getConfig config = genConfig()) {
         getConfig c = config;
         if (config.seed >= 0) c.seed = config.seed + k;
         <seed, t> = generate(config = c);
-        while (shape(t) in seen) {                     // clone of an earlier method: try again
-            if (c.seed >= 0) c.seed += 1000;           // fixed seed: move to a fresh one
+        while (shape(t) in seen) {                    
+            if (c.seed >= 0) c.seed += 1000;           
             <seed, t> = generate(config = c);
         }
         seen += {shape(t)};

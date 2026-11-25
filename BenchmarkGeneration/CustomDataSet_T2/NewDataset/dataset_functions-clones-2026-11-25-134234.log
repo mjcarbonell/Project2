@@ -1,18 +1,18 @@
-Tue Nov 24 18:21:24 CET 2026
+Wed Nov 25 13:42:34 CET 2026
 ./txl/java-extract-functions.x ALL.java >> /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions.xml
 
-Tue Nov 24 18:21:26 CET 2026
+Wed Nov 25 13:42:35 CET 2026
 
-Tue Nov 24 18:21:26 CET 2026
+Wed Nov 25 13:42:35 CET 2026
 ./tools/streamprocess.x './txl/java-rename-consistent-functions.x stdin' < /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions.xml > /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions-consistent.xml
 
-real	0m0.213s
-user	0m0.044s
-sys	0m0.022s
+real	0m0.098s
+user	0m0.016s
+sys	0m0.014s
 
-Tue Nov 24 18:21:26 CET 2026
+Wed Nov 25 13:42:36 CET 2026
 
-Tue Nov 24 18:21:26 CET 2026
+Wed Nov 25 13:42:36 CET 2026
 ./tools/clonepairs.x /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions-consistent.xml 0.00 1 2500 > /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions-consistent-clones/dataset_functions-consistent-clones-0.00.xml
 Processing /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions-consistent.xml with difference threshold 0%, clone size 1 .. 2500 lines
 Reading pcs . done.
@@ -29,13 +29,13 @@ Found 10 clone pairs
 Generating XML output . done.
 
 
-real	0m0.299s
-user	0m0.016s
-sys	0m0.079s
+real	0m0.134s
+user	0m0.004s
+sys	0m0.032s
 
-Tue Nov 24 18:21:27 CET 2026
+Wed Nov 25 13:42:36 CET 2026
 
-Tue Nov 24 18:21:27 CET 2026
+Wed Nov 25 13:42:36 CET 2026
 ./tools/cloneclasses.x /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions-consistent-clones/dataset_functions-consistent-clones-0.00.xml > /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions-consistent-clones/dataset_functions-consistent-clones-0.00-classes.xml
 Processing /mnt/e/CloneBenchmarks/BenchmarkGeneration/CustomDataSet_T2/NewDataset/dataset_functions-consistent-clones/dataset_functions-consistent-clones-0.00.xml
 Reading clone pairs . done.
@@ -47,9 +47,9 @@ Clustered clone pairs into 10 classes
 Generating XML output . done.
 
 
-real	0m0.141s
-user	0m0.012s
-sys	0m0.042s
+real	0m0.169s
+user	0m0.009s
+sys	0m0.045s
 
-Tue Nov 24 18:21:27 CET 2026
+Wed Nov 25 13:42:36 CET 2026
 

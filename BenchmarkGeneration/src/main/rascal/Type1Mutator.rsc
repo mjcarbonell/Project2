@@ -14,7 +14,7 @@ import lang::java::\syntax::Java15;
 
 // One injection = one reference pair. out is the run folder (CustomDataSet_T1/<runName>/)
 void injectT1(loc src, loc out, str a, str name, str b, int idA, int idB) {
-    Tree cuA = parse(#start[CompilationUnit], src + a, allowAmbiguity=true); // Parse Tree https://www.rascal-mpl.org/docs/Library/ParseTree/#ParseTree-parse
+    Tree cuA = parse(#start[CompilationUnit], src + a, allowAmbiguity=true); // Compilation unit of file A. Parse Tree https://www.rascal-mpl.org/docs/Library/ParseTree/#ParseTree-parse
     MethodDec m = findMethod(cuA, name); // Checks every node. returns the node with the given name 
     // println(prettyTree(m, \layout=true, literals=true));  // "in between the Symbols that define a syntax non-terminal the locally defined layout non-terminal will be interleaved." https://www.rascal-mpl.org/docs/Rascal/Declarations/SyntaxDefinition/
     Tree mutated = visit (m) {

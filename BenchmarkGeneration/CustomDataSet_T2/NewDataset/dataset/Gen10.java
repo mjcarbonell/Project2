@@ -7,5 +7,5 @@ class Gen10 {
    void bjx ( boolean wqc , long she , double dtd ) { byte wvt , cbb , cph , pdh ; double hjt , wbq , nuz , unr ; if ( vym ) znx ; short zsg , dwg , twv , uka ; }
 
 
-    void   wtn   ( /* t1 */ boolean ugd , /* t1 */ int /* t1 */ vii , boolean   xqu /* t1 */ ) { float /* t1 */ iva , /* t1 */ yte   , yce /* t1 */ , /* t1 */ qmm /* t1 */ ; /* t1 */ ewe /* t1 */ ; /* t1 */ boolean /* t1 */ epk   , hql , tiy   , jsn   ; /* t1 */ ahx   ; }
+    void   hhx (   boolean nfp /* t1 */ ,   char   qzy   , /* t1 */ double /* t1 */ ymy   )   {   boolean elk   ,   fwm /* t1 */ ,   jmc ,   imn   ; /* t1 */ boolean /* t1 */ nod /* t1 */ , vgk   , /* t1 */ xgy /* t1 */ , /* t1 */ uru ; boolean uum   ,   ukw /* t1 */ , /* t1 */ apc   , rck   ; /* t1 */ if   ( fbk /* t1 */ *   zeo /* t1 */ )   bth ; }
 }

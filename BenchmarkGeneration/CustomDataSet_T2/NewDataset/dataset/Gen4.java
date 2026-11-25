@@ -7,5 +7,5 @@ class Gen4 {
    void dig ( boolean ijg , double sdy , char jvi ) { boolean cdh , jwr , wrv , yys ; boolean zkv , hgd , bzm , jjz ; double ynp , ndo , nke , pzt ; if ( gvw * yqa * dds * yly * jsn * ycj * zlt * aht ) if ( jtr ) mxv ; }
 
 
-    void eaj /* t1 */ (   float /* t1 */ wlr , /* t1 */ float jjx   , boolean ilk   )   {   if (   yci   )   if ( pkw /* t1 */ ) /* t1 */ if ( /* t1 */ oza   * dkg * tdv   ) /* t1 */ if /* t1 */ ( caq /* t1 */ *   guu ) if   (   gku ) /* t1 */ jqu ;   if (   ech /* t1 */ ) gbz * yzk /* t1 */ ; /* t1 */ boolean /* t1 */ woy , gxz , /* t1 */ rue /* t1 */ , /* t1 */ wdx /* t1 */ ; if /* t1 */ (   evl   ) /* t1 */ jmt * /* t1 */ pbw   ; /* t1 */ }
+    void /* t1 */ atf ( /* t1 */ boolean /* t1 */ bch /* t1 */ ,   short   whx , /* t1 */ long kyz ) /* t1 */ { /* t1 */ sho *   mgd ; /* t1 */ xww /* t1 */ * /* t1 */ txp * uef /* t1 */ * cks /* t1 */ *   pjv /* t1 */ ;   int /* t1 */ mgo   ,   vzb , ukg   , /* t1 */ wec   ;   boolean   rou /* t1 */ , /* t1 */ yos   , /* t1 */ wov /* t1 */ , ygn /* t1 */ ; }
 }

@@ -11,8 +11,7 @@ reported pairs not in ground truth: 0
 
 == CPD ==
 ground truth pairs: 10
-reported pairs:     8
-recall:             8/10 = 80%
-  missed Gen5.java:7-7 <-> Gen6.java:10-10
-  missed Gen9.java:7-7 <-> Gen10.java:10-10
+reported pairs:     9
+recall:             9/10 = 90%
+  missed Gen13.java:5-5 <-> Gen14.java:10-10
 reported pairs not in ground truth: 0
